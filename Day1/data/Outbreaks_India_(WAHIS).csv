@@ -1,0 +1,575 @@
+﻿outbreakId,reportId,diseaseName,diseaseType,startDate,endDate,totalCases,locationName,species,animalCategoryLabel,latitude,longitude,animalCategory
+81528,3530,H5N8 (HPAI),,1/01/2021,21/12/2023,0,Dolasa Revenue Area,Birds,Domestic,20.793232,70.855979,domestic
+148183,6217,H5N1 (HPAI non. Plt),,17/01/2025,,13,"Nehdai, Mohangarh ",Anthropoides virgo,Wild,27.284411,71.133905,wild
+148182,6217,H5N1 (HPAI non. Plt),,11/01/2025,,7,"Chordia Pond, Lakhmana (Fathehgarh) ",Anthropoides virgo,Wild,26.619528,71.251165,wild
+90628,3934,empty strain - H5N1 (HPAI),,21/01/2021,21/12/2023,24,Gundrana,Birds,Domestic,21.2585,71.8883,domestic
+46463,2153,H5N1 (HPAI),,2/01/2017,6/06/2017,2,"Memnagar Rescue Center, Servadharam",Birds,Domestic,23.01,72.34,domestic
+46173,2153,H5N1 (HPAI),,22/12/2016,6/06/2017,25,Asha Foundation,Birds,Domestic,22.56,72.39,domestic
+148181,6217,H5N1 (HPAI non. Plt),,15/12/2024,,14,Khichan,Anthropoides virgo,Wild,27.13818,72.416834,wild
+90634,3934,empty strain - H5N1 (HPAI),,20/02/2021,21/12/2023,86,"Sola, Ahmedabad",Birds,Domestic,23.0757,72.509,domestic
+46464,2153,H5N1 (HPAI),,31/12/2016,6/06/2017,5,"Mirasoli Resort, Devka",Birds,Domestic,20.27,72.51,domestic
+98002,4331,empty strain - H5N1 (HPAI),,10/02/2022,8/02/2023,549,Agashi(Arnala) ,Birds,Domestic,19.45003,72.755918,domestic
+90312,3496,empty strain - H5N1 (HPAI),,20/02/2021,8/02/2023,401,IPDB Palghar,Birds,Domestic,19.6892,72.7661,domestic
+98004,4331,empty strain - H5N1 (HPAI),,10/02/2022,8/02/2023,518,Vatar,Birds,Domestic,19.44189,72.77522,domestic
+126636,5289,H5N1 (HPAI non. Plt),,5/09/2023,24/10/2023,6,"Gorai, Borivali Mumbai","Cygnus atratus, Lophura nycthemera",Wild,19.23362,72.80541,wild
+1824,100,H5N1 (HPAI),,27/01/2006,27/04/2006,,Uchchal,Birds,Domestic,21.21531,72.82258,domestic
+90327,3496,empty strain - H5N1 (HPAI),,12/01/2021,8/02/2023,706,"Central Poultry Development Organisation, Aarey Colony, Goregaon",Birds,Domestic,19.142,72.8768,domestic
+150103,6250,empty strain - H5N1 (HPAI),,8/01/2025,,2,"12, Banglow Vasahat, Kopri, Thane",Birds,Domestic,19.181119,72.970814,domestic
+90418,3496,empty strain - H5N1 (HPAI),,29/01/2021,8/02/2023,0,"Ghansoli, Rabale",Birds,Domestic,19.1292,73.0013,domestic
+90112,3496,empty strain - H5N1 (HPAI),,29/01/2021,8/02/2023,2,Mhape NMMNC,Birds,Domestic,19.1178,73.0175,domestic
+150104,6250,empty strain - H5N1 (HPAI),,12/01/2025,,80,Chiner Tal-Uran,Birds,Domestic,18.872904,73.050858,domestic
+90075,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,281,"IPDB, Pen",Birds,Domestic,18.7375,73.0944,domestic
+46220,2156,H5N8 (HPAI non. Plt),,5/12/2016,6/06/2017,2,Wadhawana Lake,Anser anser,Wild,22.17,73.1,wild
+90085,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,4,Atali,Birds,Domestic,19.16,73.1018,domestic
+90087,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,41,Rayate,Birds,Domestic,19.1529,73.1336,domestic
+154315,6250,H5N1 (HPAI),,24/01/2025,,270,Khandavi,Birds,Domestic,19.352197,73.236091,domestic
+98001,4331,empty strain - H5N1 (HPAI),,2/02/2022,8/02/2023,309,"Vehloli, Vashind",Birds,Domestic,19.41684,73.29618,domestic
+90297,3496,empty strain - H5N1 (HPAI),,11/02/2021,8/02/2023,443,Pashane,Birds,Domestic,19.4521,73.328,domestic
+144559,5685,H5N1 (HPAI),,25/05/2024,19/05/2025,1428,"Ward-9, Muhamma, Muhamma Panchayat, Alappuzha",Birds,Domestic,9.599141,73.35989,domestic
+92866,4096,H5N1 (HPAI non. Plt),,6/11/2021,21/07/2023,245,Kaparda,Anthropoides virgo,Wild,26.239009,73.436642,wild
+90069,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,60,Chande/ Mulshi,Birds,Domestic,18.505,73.5181,domestic
+90148,3496,empty strain - H5N1 (HPAI),,2/02/2021,8/02/2023,15,"Dhayari, Mawal",Birds,Domestic,18.7842,73.5571,domestic
+90104,3496,empty strain - H5N1 (HPAI),,23/01/2021,8/02/2023,135,"Salumbre, Mawal",Birds,Domestic,18.6568,73.6988,domestic
+90631,3934,empty strain - H5N1 (HPAI),,13/02/2021,21/12/2023,0,"National Poultry Farm, Uchchhal",Birds,Domestic,21.1714,73.7412,domestic
+1823,100,H5N1 (HPAI),,27/01/2006,27/04/2006,,Navapur,Birds,Domestic,21.16265,73.79065,domestic
+90111,3496,empty strain - H5N1 (HPAI),,23/01/2021,8/02/2023,250,"Gandhinagar Survey No. 62 Wathoda, Balgan",Birds,Domestic,20.6901,73.9475,domestic
+90082,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,60,Mariaichi Wadi/ Khandala,Birds,Domestic,18.0356,74.0125,domestic
+90858,3955,empty strain - H5N8 (HPAI),,28/02/2021,21/12/2023,3,Rafiabad,Birds,Domestic,34.3171,74.2594,domestic
+90857,3955,empty strain - H5N8 (HPAI),,4/02/2021,21/12/2023,2,Baramulla,Birds,Domestic,34.21,74.3404,domestic
+90864,3955,empty strain - H5N8 (HPAI),,15/03/2021,21/12/2023,0,"Sheeri, Dangerpora",Birds,Domestic,34.1097,74.3719,domestic
+90105,3496,empty strain - H5N1 (HPAI),,23/01/2021,8/02/2023,10,Shinodi Survey No. 203 Sangammer,Birds,Domestic,19.327,74.374,domestic
+80549,3497,H5N1 (HPAI),,6/01/2021,21/12/2023,127,Rundipada,Birds,Domestic,23.009,74.56,domestic
+90810,3955,empty strain - H5N8 (HPAI),,3/02/2021,21/12/2023,567,S K Payeen,Birds,Domestic,34.4,74.6,domestic
+90070,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,60,Mauje Baribe,Birds,Domestic,18.407,74.6738,domestic
+90106,3496,empty strain - H5N1 (HPAI),,23/01/2021,8/02/2023,5,Sade Survey No. 360/1,Birds,Domestic,19.3288,74.6904,domestic
+90862,3955,empty strain - H5N8 (HPAI),,5/03/2021,21/12/2023,1,Balgarden,Birds,Domestic,34.0785,74.7966,domestic
+80918,3506,H5N8 (HPAI non. Plt),,27/12/2020,21/07/2023,155,"Tehsil Complex, Mandsaur","Corvus macrorhynchos, Corvus splendens",Wild,24.0758,75.0761,wild
+93322,4096,H5N1 (HPAI non. Plt),,18/11/2021,21/07/2023,77,Sambhar Lake,Corvus splendens,Wild,26.907907,75.1873,wild
+90807,3955,empty strain - H5N8 (HPAI),,11/01/2021,21/12/2023,3,"Jaganoo, Dhamdal West",Birds,Domestic,32.8656,75.1941,domestic
+1854,100,H5N1 (HPAI),,28/03/2006,27/04/2006,,"varad, Paldhi,Parola,Bhadgaon, Erandol,Uttaran",Birds,Domestic,20.67637,75.22644,domestic
+90100,3496,empty strain - H5N1 (HPAI),,23/01/2021,8/02/2023,21,Neptagaon,Birds,Domestic,17.6686,75.3197,domestic
+90570,3928,empty strain - H5N8 (HPAI),,27/12/2020,21/12/2023,34,Kheda Road,Birds,Domestic,24.0142,75.3528,domestic
+11434,582,H3N8 (Equ. Infl),,20/06/2008,9/07/2010,5424,Katra,Equidae (dom),Domestic,32.98,74.95,domestic
+11435,582,H3N8 (Equ. Infl),,7/07/2008,9/07/2010,12543,Anantnag,Equidae (dom),Domestic,34.09,74.79,domestic
+90101,3496,empty strain - H5N1 (HPAI),,23/01/2021,8/02/2023,8,Ganeshwadi,Birds,Domestic,17.5132,75.415,domestic
+1856,100,H5N1 (HPAI),,5/04/2006,27/04/2006,,"Pachora, Mehunbare, Nandra, Parola, Mohida, Muktai nagar, Salbardi, Kamkheda, Sakali, Pimpri, Vitava, Weghari, Nandgaon, Bodarbe",Birds,Domestic,20.6839,75.42118,domestic
+43506,2066,H5N8 (HPAI),,31/10/2016,6/06/2017,14,"Blue Bird Tourist Complex, Hissar",Birds,Domestic,29.1,75.43,domestic
+90642,3935,empty strain - H5N8 (HPAI),,28/04/2021,21/12/2023,18000,"Dehlon, Quilla Raipur",Birds,Domestic,30.73441,75.49302,domestic
+81532,3496,H5N1 (HPAI),,11/01/2021,8/02/2023,22,Jangalgi,Birds,Domestic,17.305983,75.496979,domestic
+1853,100,H5N1 (HPAI),,14/03/2006,27/04/2006,,"Marul, Savda, Hated, Sarva",Birds,Domestic,20.98393,75.68579,domestic
+90641,3935,empty strain - H5N8 (HPAI),,10/03/2021,21/12/2023,45,"Dhar, Chatwal",Birds,Domestic,32.284,75.7213,domestic
+71607,3168,H5N1 (HPAI),,3/03/2020,30/09/2020,41,Vengeri Kozhikkode Corporation,Birds,Domestic,11.30048203,75.79784674,domestic
+80990,3511,H5N8 (HPAI non. Plt),,25/12/2020,21/07/2023,121,"Radi Ke Bajaji Temple, Jhalawar","Corvus macrorhynchos, Corvus splendens",Wild,26.93219,75.81727,wild
+11487,582,H3N8 (Equ. Infl),,8/10/2008,9/07/2010,418,Matheran,Equidae (dom),Domestic,18.47,73.21,domestic
+11488,582,H3N8 (Equ. Infl),,26/10/2008,9/07/2010,304,Pune,Equidae (dom),Domestic,18.3,73.52,domestic
+11489,582,H3N8 (Equ. Infl),,7/11/2008,9/07/2010,20,Kolkata,Equidae (dom),Domestic,22.32,88.2,domestic
+11490,582,H3N8 (Equ. Infl),,26/09/2008,9/07/2010,49,Delhi,Equidae (dom),Domestic,28.38,77.12,domestic
+73298,3168,H5N1 (HPAI),,6/03/2020,30/09/2020,7,"Beerankutty Valiya,Pediakkal Palathingil Ward No.16, Parappanangadi",Birds,Domestic,11.2076,75.8204,domestic
+73295,3206,H5N1 (HPAI),,10/03/2020,4/09/2020,25,Bannikode,Birds,Domestic,14.46394,75.84776,domestic
+126626,4701,H5N1 (HPAI),,6/01/2023,24/10/2023,2408,Ward No.22 Chathamangalam,Birds,Domestic,11.3209695,75.93078,domestic
+80991,3511,H5N8 (HPAI non. Plt),,1/01/2021,21/07/2023,123,SDM Residence Area,Corvus splendens,Wild,24.6496,75.9434,wild
+71534,3168,H5N1 (HPAI),,3/03/2020,30/09/2020,2500,Abdul Majeed Outhiyottil Egger Nursery West Kodiyathur,Birds,Domestic,11.27895315,75.9792242,domestic
+80992,3511,H5N8 (HPAI non. Plt),,1/01/2021,21/07/2023,2,DARA Forest Range Office,Corvus splendens,Wild,24.834,76.0065,wild
+93323,4135,empty strain - H5N8 (HPAI non. Plt),,28/11/2021,21/07/2023,8,Urban Area (Mutton Market),Corvus splendens,Wild,23.718039,76.012809,wild
+80919,3506,H5N8 (HPAI non. Plt),,1/01/2021,21/07/2023,173,Near Sai Temple Agar,Corvus splendens,Wild,23.7180391,76.0128094,wild
+154345,6250,H5N1 (HPAI),,2/03/2025,,300,Dhoki Village ,Birds,Domestic,18.371246,76.104454,domestic
+11580,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,8,"Nagar Parishad, Ajmer",Equidae (dom),Domestic,26.26,74.38,domestic
+11581,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,1,Peesangan,Equidae (dom),Domestic,26.26,74.38,domestic
+11582,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,1,Shahapura,Equidae (dom),Domestic,25.2,74.38,domestic
+11583,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,3,Degana,Equidae (dom),Domestic,26.53,74.19,domestic
+11584,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,2,Parbatsar,Equidae (dom),Domestic,26.53,74.45,domestic
+11585,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,1,Rohinibi,Equidae (dom),Domestic,27.12,73.43,domestic
+11586,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,1,Makrana,Equidae (dom),Domestic,27.02,74.43,domestic
+11587,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,1,Didwana,Equidae (dom),Domestic,27.24,74.34,domestic
+11588,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,2,Ladnu,Equidae (dom),Domestic,27.38,74.23,domestic
+11589,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,2,Kuchman,Equidae (dom),Domestic,27.09,74.51,domestic
+11590,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,4,Mandore,Equidae (dom),Domestic,27.12,74.37,domestic
+11591,582,H3N8 (Equ. Infl),,8/11/2008,9/07/2010,1,Neem ka Thana,Equidae (dom),Domestic,27.44,75.47,domestic
+90108,3496,empty strain - H5N1 (HPAI),,23/01/2021,8/02/2023,200,"Bhankhed, Chikhali",Birds,Domestic,20.5365,76.1804,domestic
+45831,2062,H5N8 (HPAI),,6/11/2016,6/06/2017,132,Punnappra South,Birds,Domestic,9.26,76.2,domestic
+33358,1648,H5 (HPAI),,20/11/2014,23/06/2015,15000,Purakkad & Thalavady,Birds,Domestic,9.29,76.2,domestic
+45830,2062,H5N8 (HPAI),,1/11/2016,6/06/2017,32,Purakkad,Birds,Domestic,9.21,76.21,domestic
+45828,2062,H5N8 (HPAI),,26/10/2016,6/06/2017,13505,Ambalapuzha North,Birds,Domestic,9.22,76.21,domestic
+45834,2062,H5N8 (HPAI),,23/11/2016,6/06/2017,3146,Ambalappuzha South,Birds,Domestic,9.22,76.21,domestic
+11807,582,H3N8 (Equ. Infl),,13/12/2008,9/07/2010,25,Bangalore City Area,Equidae (dom),Domestic,12.57,77.34,domestic
+11808,582,H3N8 (Equ. Infl),,23/11/2008,9/07/2010,445,Mysore race club premises,Equidae (dom),Domestic,12.18,76.39,domestic
+43776,2083,H5N8 (HPAI),,5/11/2016,6/06/2017,900,Itagi,Birds,Domestic,15.16,76.23,domestic
+1855,100,H5N1 (HPAI),,28/03/2006,27/04/2006,,Icchapur,Birds,Domestic,21.32528,76.23167,domestic
+43352,2062,H5N8 (HPAI),,19/10/2016,6/06/2017,100,Thakazhy,Birds,Domestic,9.22,76.24,domestic
+12021,582,H3N8 (Equ. Infl),,1/11/2008,9/07/2010,10,Baijnath,Equidae (dom),Domestic,32.05,76.15,domestic
+12022,582,H3N8 (Equ. Infl),,1/11/2008,9/07/2010,1,Bhoranj,Equidae (dom),Domestic,31.57,76.05,domestic
+12023,582,H3N8 (Equ. Infl),,12/12/2008,9/07/2010,7,Ghumarwin,Equidae (dom),Domestic,31.1,76.42,domestic
+12024,582,H3N8 (Equ. Infl),,30/03/2009,9/07/2010,41,Ahmedabad Shahibag Police Horse Camp,Equidae (dom),Domestic,23.02,72.33,domestic
+45816,2062,H5N8 (HPAI),,27/10/2016,6/06/2017,418,Champakkulam,Birds,Domestic,9.24,76.24,domestic
+12153,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,1,Sanganer,Equidae (dom),Domestic,26.45,75.45,domestic
+12154,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,2,Sanganer,Equidae (dom),Domestic,26.47,75.45,domestic
+12155,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,4,Sanchor,Equidae (dom),Domestic,24.48,71.42,domestic
+12156,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,2,Sayala,Equidae (dom),Domestic,25.2,72.36,domestic
+12157,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,4,Jalore,Equidae (dom),Domestic,25.2,72.36,domestic
+12158,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,4,Jalore,Equidae (dom),Domestic,25.2,72.36,domestic
+12159,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,1,Aahore,Equidae (dom),Domestic,25.2,72.36,domestic
+12160,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,4,Aahore,Equidae (dom),Domestic,25.2,72.36,domestic
+12161,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,2,Aahore,Equidae (dom),Domestic,25.2,72.36,domestic
+12162,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,6,Mandore,Equidae (dom),Domestic,26.16,73.01,domestic
+12163,582,H3N8 (Equ. Infl),,25/03/2009,9/07/2010,13,Rohat,Equidae (dom),Domestic,25.57,73.07,domestic
+12164,582,H3N8 (Equ. Infl),,8/05/2009,9/07/2010,114,Ukhimath,Equidae (dom),Domestic,30.39,79,domestic
+12165,582,H3N8 (Equ. Infl),,8/05/2009,9/07/2010,2,Gopeshwar,Equidae (dom),Domestic,30.24,79.19,domestic
+12166,582,H3N8 (Equ. Infl),,8/05/2009,9/07/2010,20,Dunda,Equidae (dom),Domestic,34.42,78.2,domestic
+12167,582,H3N8 (Equ. Infl),,8/05/2009,9/07/2010,24,Banbasa,Equidae (dom),Domestic,27.21,81.23,domestic
+12169,582,H3N8 (Equ. Infl),,8/05/2009,9/07/2010,6,Haridwar police stables,Equidae (dom),Domestic,29.57,78.1,domestic
+45827,2062,H5N8 (HPAI),,26/10/2016,6/06/2017,10,Nedumudy,Birds,Domestic,9.26,76.24,domestic
+45832,2062,H5N8 (HPAI),,17/11/2016,6/06/2017,880,Karuvatta,Birds,Domestic,9.18,76.25,domestic
+45833,2062,H5N8 (HPAI),,24/11/2016,6/06/2017,480,Kumarakom,Birds,Domestic,9.37,76.25,domestic
+45826,2062,H5N8 (HPAI),,31/10/2016,6/06/2017,11009,Vechur,Birds,Domestic,9.39,76.25,domestic
+45822,2062,H5N8 (HPAI),,19/10/2016,6/06/2017,2046,Thalayazham,Birds,Domestic,9.42,76.25,domestic
+45605,2062,H5N8 (HPAI),,22/10/2016,6/06/2017,8123,Cheruthana,Birds,Domestic,9.2,76.26,domestic
+45818,2062,H5N8 (HPAI),,29/10/2016,6/06/2017,4500,Pulincunnu,Birds,Domestic,9.27,76.26,domestic
+45821,2062,H5N8 (HPAI),,27/10/2016,6/06/2017,170,Veeyapuram,Birds,Domestic,9.2,76.27,domestic
+45817,2062,H5N8 (HPAI),,27/10/2016,6/06/2017,6935,Edathua,Birds,Domestic,9.22,76.27,domestic
+43353,2062,H5N8 (HPAI),,23/10/2016,6/06/2017,15,Ramankary,Birds,Domestic,9.25,76.27,domestic
+45631,2062,H5N8 (HPAI),,24/10/2016,6/06/2017,1435,Pallippad,Birds,Domestic,9.16,76.28,domestic
+45820,2062,H5N8 (HPAI),,21/10/2016,6/06/2017,1816,Veliyanad,Birds,Domestic,9.26,76.28,domestic
+144549,5685,H5N1 (HPAI),,11/05/2024,19/05/2025,424,"Ward-11, Niranam, Pathanamthitta",Birds,Domestic,9.2018,76.2837,domestic
+45829,2062,H5N8 (HPAI),,6/11/2016,6/06/2017,110,Thalavady,Birds,Domestic,9.22,76.29,domestic
+45825,2062,H5N8 (HPAI),,26/10/2016,6/06/2017,6197,Aymanam,Birds,Domestic,9.36,76.29,domestic
+144590,5685,H5N1 (HPAI),,19/06/2024,19/05/2025,561,"ward 2, Kadakkarapally",Birds,Domestic,9.71798,76.29162,domestic
+45603,2062,H5N8 (HPAI),,24/10/2016,6/06/2017,700,Neelamperoor,Birds,Domestic,9.29,76.3,domestic
+33503,1648,H5N1 (HPAI),,28/11/2014,23/06/2015,500,Vilakkumaram,Birds,Domestic,9.33,76.3,domestic
+45815,2062,H5N8 (HPAI),,26/10/2016,6/06/2017,2506,Arpookkara,Birds,Domestic,9.37,76.3,domestic
+45824,2062,H5N8 (HPAI),,19/10/2016,6/06/2017,1220,Neendoor,Birds,Domestic,9.41,76.3,domestic
+45819,2062,H5N8 (HPAI),,29/10/2016,6/06/2017,783,Chennithala,Birds,Domestic,9.16,76.31,domestic
+33359,1648,H5 (HPAI),,20/11/2014,23/06/2015,500,Parippu Aimananam,Birds,Domestic,9.35,76.31,domestic
+22637,1398,Porcine reproductive/respiratory syndr.,Suidae,18/03/2013,12/02/2016,57,Aizawal,Swine,Domestic,23.43,92.43,domestic
+90321,3496,empty strain - H5N1 (HPAI),,11/03/2021,8/02/2023,243,"Vanjarwadi, Parali Vaijanath",Birds,Domestic,18.8834,76.3133,domestic
+144585,5685,H5N1 (HPAI),,18/06/2024,19/05/2025,8,"Ward 18, Mararikulam South LSGD",Birds,Domestic,9.55781,76.314399,domestic
+33498,1648,H5N1 (HPAI),,20/11/2014,23/06/2015,2554,Chennithala,Birds,Domestic,9.16,76.32,domestic
+28160,1398,Porcine reproductive/respiratory syndr.,Suidae,5/07/2013,11/07/2013,4,"Khajuabil Jahakhuwapara, Dalgaon",Swine,Domestic,26.36,91.39,domestic
+28161,1398,Porcine reproductive/respiratory syndr.,Suidae,4/07/2013,8/08/2013,2,Dalgaon,Swine,Domestic,26.31,93.58,domestic
+28162,1398,Porcine reproductive/respiratory syndr.,Suidae,15/07/2013,3/09/2013,1,Sivsagar,Swine,Domestic,26.98,94.63,domestic
+28163,1398,Porcine reproductive/respiratory syndr.,Suidae,4/08/2013,18/09/2013,1,Sivsagar,Swine,Domestic,26.98,94.63,domestic
+28164,1398,Porcine reproductive/respiratory syndr.,Suidae,28/09/2013,15/10/2013,1,Nongumlong,Swine,Domestic,25.22,91.45,domestic
+28165,1398,Porcine reproductive/respiratory syndr.,Suidae,24/10/2013,11/11/2013,4,Jarangkona,Swine,Domestic,25.27,89.56,domestic
+28166,1398,Porcine reproductive/respiratory syndr.,Suidae,6/03/2014,19/04/2014,3,Gindo,Swine,Domestic,25.34,90.39,domestic
+28167,1398,Porcine reproductive/respiratory syndr.,Suidae,22/04/2014,5/05/2014,1,Masighat pig farm,Swine,Domestic,25.19,90.33,domestic
+28168,1398,Porcine reproductive/respiratory syndr.,Suidae,10/10/2013,26/10/2013,1,Mawthadrashan,Swine,Domestic,25.33,91.17,domestic
+28169,1398,Porcine reproductive/respiratory syndr.,Suidae,25/09/2013,25/10/2013,1,Myrkhan,Swine,Domestic,25.22,91.45,domestic
+28170,1398,Porcine reproductive/respiratory syndr.,Suidae,22/04/2014,15/05/2014,1,Nongkasen pig farm,Swine,Domestic,25.33,91.17,domestic
+28171,1398,Porcine reproductive/respiratory syndr.,Suidae,5/03/2014,15/04/2014,8,Nongpyiur government pig farm,Swine,Domestic,25.22,91.45,domestic
+28172,1398,Porcine reproductive/respiratory syndr.,Suidae,13/03/2014,11/04/2014,5,Pynursla government pig farm,Swine,Domestic,25.22,91.45,domestic
+28173,1398,Porcine reproductive/respiratory syndr.,Suidae,16/09/2013,20/09/2013,1,"Koiroi, Nambol block",Swine,Domestic,24.37,93.45,domestic
+28174,1398,Porcine reproductive/respiratory syndr.,Suidae,30/10/2013,3/11/2013,1,Govindagram,Swine,Domestic,24.46,93.53,domestic
+28175,1398,Porcine reproductive/respiratory syndr.,Suidae,2/05/2013,28/08/2014,350,Aizawl,Swine,Domestic,23.43,92.43,domestic
+28177,1398,Porcine reproductive/respiratory syndr.,Suidae,5/05/2013,28/08/2014,123,Lunglei,Swine,Domestic,22.52,92.45,domestic
+28178,1398,Porcine reproductive/respiratory syndr.,Suidae,13/11/2013,12/07/2014,179,Saiha,Swine,Domestic,22.29,92.58,domestic
+28179,1398,Porcine reproductive/respiratory syndr.,Suidae,18/09/2013,12/07/2014,154,Serchhip,Swine,Domestic,23.18,92.51,domestic
+28180,1398,Porcine reproductive/respiratory syndr.,Suidae,4/05/2013,28/08/2014,37,Champhai,Swine,Domestic,23.27,93.19,domestic
+28181,1398,Porcine reproductive/respiratory syndr.,Suidae,19/05/2013,16/07/2013,30,Lawngtlai,Swine,Domestic,22.18,92.41,domestic
+28182,1398,Porcine reproductive/respiratory syndr.,Suidae,18/05/2013,16/08/2013,3,Kolasib,Swine,Domestic,24.13,92.4,domestic
+28183,1398,Porcine reproductive/respiratory syndr.,Suidae,8/03/2014,3/04/2014,2,Rengmapani,Swine,Domestic,26,94.31,domestic
+45823,2062,H5N8 (HPAI),,19/10/2016,6/06/2017,418,Paippad,Birds,Domestic,9.26,76.32,domestic
+144573,5685,H5N1 (HPAI),,9/06/2024,19/05/2025,428,"Ward 11, Cherthala South",Birds,Domestic,9.655053,76.326774,domestic
+144575,5685,H5N1 (HPAI),,13/06/2024,19/05/2025,100,"Ward 23, Mannanchery",Birds,Domestic,9.582173,76.330633,domestic
+34425,1648,H5N1 (HPAI),,18/01/2015,23/06/2015,1628,Kureepuzha Regional Poultry Farm,Birds,Domestic,8.55,76.34,domestic
+144592,5685,H5N1 (HPAI),,24/06/2024,19/05/2025,778,"Ward 12, Chennampallipuram",Birds,Domestic,9.718402,76.341839,domestic
+144583,5685,H5N1 (HPAI),,13/06/2024,19/05/2025,2121,"Ward 4, Cherthala Municipality",Birds,Domestic,9.694383,76.347261,domestic
+144579,5685,H5N1 (HPAI),,14/06/2024,19/05/2025,3734,"Ward 15, Chennam pallipuram LSGD",Birds,Domestic,9.738372,76.348501,domestic
+144572,5685,H5N1 (HPAI),,11/06/2024,19/05/2025,214,"Ward 16, Cherthala Municipality",Birds,Domestic,9.670847,76.348507,domestic
+144567,5685,H5N1 (HPAI),,8/06/2024,19/05/2025,1997,"Ward 15, Cherthala Muncipality",Birds,Domestic,9.67017,76.348898,domestic
+43509,2068,H5N8 (HPAI),,23/10/2016,6/06/2017,10,Damenheri,Birds,Domestic,30.29,76.35,domestic
+144561,5685,H5N1 (HPAI),,8/06/2024,19/05/2025,1742,"Ward-10, Kanjikuzhy Panchayat",Birds,Domestic,9.602548,76.350493,domestic
+112168,4701,H5N1 (HPAI),,21/12/2022,24/10/2023,1935,"Ward No. 4 Vanadam, Ambalapuzzha North ",Birds,Domestic,9.4164,76.352,domestic
+144587,5685,H5N1 (HPAI),,20/06/2024,19/05/2025,2008,"Ward 14, Chennam, Pallipuram LSGD",Birds,Domestic,9.72648,76.354869,domestic
+126627,4701,H5N1 (HPAI),,7/01/2023,24/10/2023,573,Ward No. 6 Punnapra South Ambalapuzha,Birds,Domestic,9.432931,76.355535,domestic
+112167,4701,H5N1 (HPAI),,3/12/2022,24/10/2023,3500,"Ward No.5, Vadanam Ambalapuzzha North",Birds,Domestic,9.415,76.3565,domestic
+144586,5685,H5N1 (HPAI),,18/06/2024,19/05/2025,1985,"Ward 3, Chennam, Pallipuram LSGD",Birds,Domestic,9.758895,76.356595,domestic
+134797,5685,H5N1 (HPAI),,19/04/2024,19/05/2025,693,Ward 7 Ambalappuzha North,Birds,Domestic,9.406405,76.356791,domestic
+144589,5685,H5N1 (HPAI),,21/06/2024,19/05/2025,2800,Ward 2 Kanjikuzhy,Birds,Domestic,9.663969,76.357365,domestic
+97670,4171,empty strain - H5N1 (HPAI),,17/12/2021,21/12/2023,4580,"Nalupadam, Ambalapuzha(N)",Birds,Domestic,9.41715,76.35893,domestic
+144581,5685,H5N1 (HPAI),,18/06/2024,19/05/2025,2524,"Ward 3, Chennam, Pallipuram LSGD",Birds,Domestic,9.76677,76.361519,domestic
+97668,4171,empty strain - H5N1 (HPAI),,19/12/2021,21/12/2023,4525,"Nalupadam, Ambalapuzha(N)",Birds,Domestic,9.41768,76.36165,domestic
+144588,5685,H5N1 (HPAI),,20/06/2024,19/05/2025,2994,"Ward 16, Chennam, Pallipuram LSGD",Birds,Domestic,9.745858,76.362488,domestic
+80207,3477,H5N8 (HPAI),,22/12/2020,21/12/2023,15025,Nedumudy,Birds,Domestic,9.40136,76.36269,domestic
+126625,4701,H5N1 (HPAI),,2/01/2023,24/10/2023,17,Wrad No.8 Pallthuruthy,Birds,Domestic,9.48992,76.364395,domestic
+144580,5685,H5N1 (HPAI),,14/06/2024,19/05/2025,1141,"Ward 11, Chennam, Pallipuram LSGD",Birds,Domestic,9.713189,76.365464,domestic
+144584,5685,H5N1 (HPAI),,13/06/2024,19/05/2025,811,"Ward 5, Puliyoor LSGD",Birds,Domestic,9.713189,76.365464,domestic
+144574,5685,H5N1 (HPAI),,13/06/2024,19/05/2025,1580,"Ward 1, Mahuamma Panchayat",Birds,Domestic,9.642812,76.365919,domestic
+81531,3477,H5N8 (HPAI),,8/01/2021,21/12/2023,600,Kainakary,Birds,Domestic,9.4692628,76.366434,domestic
+97671,4171,empty strain - H5N1 (HPAI),,20/12/2021,21/12/2023,15795,"Kanjipadam, Ambalapuzha(N) ",Birds,Domestic,9.41099,76.37235,domestic
+144582,5685,H5N1 (HPAI),,14/06/2024,19/05/2025,1600,"Ward 5, Thanneermukkam lSGD",Birds,Domestic,9.676385,76.37277,domestic
+144577,5685,H5N1 (HPAI),,14/06/2024,19/05/2025,850,"Ward 16, Udayanapuram, LSGD",Birds,Domestic,9.775354,76.383318,domestic
+97558,4171,empty strain - H5N1 (HPAI),,1/12/2021,21/12/2023,3668,Ward 12 Purakkad,Birds,Domestic,9.33402,76.3865,domestic
+46289,2156,H5N8 (HPAI non. Plt),,28/12/2016,6/06/2017,4,"Sri Chamarajendra Zoological Gardens, Mysuru",Anser anser,Wild,12.18,76.39,wild
+112165,4701,H5N1 (HPAI),,20/11/2022,24/10/2023,4000,Ward No. 7 Naluchira Purakkad Panchayat,Birds,Domestic,9.3247,76.3942,domestic
+112166,4701,H5N1 (HPAI),,2/12/2022,24/10/2023,3000,"Ward No.6 A Block Padasekahram, Purakkad ",Birds,Domestic,9.3673,76.3942,domestic
+97557,4171,empty strain - H5N1 (HPAI),,5/12/2021,21/12/2023,150,"Ward No. 1, Nedumudy ",Birds,Domestic,9.44113,76.39562,domestic
+97666,4171,empty strain - H5N1 (HPAI),,1/12/2021,21/12/2023,11124,Ward No.1 Karuvatta,Birds,Domestic,9.34567,76.40164,domestic
+97560,4171,empty strain - H5N1 (HPAI),,6/12/2021,21/12/2023,2643,Ward No. 1 Karuvatta,Birds,Domestic,9.32893,76.40373,domestic
+93847,4171,empty strain - H5N1 (HPAI),,21/11/2021,21/12/2023,22500,"Madiyilakari, Thakazy, Champakulam",Birds,Domestic,9.349968,76.40387,domestic
+80203,3477,H5N8 (HPAI),,22/12/2020,21/12/2023,2630,Thakazhy,Birds,Domestic,9.3707,76.4115,domestic
+144594,5685,H5N1 (HPAI),,22/06/2024,19/05/2025,799,"Ward 10, Vechoor",Birds,Domestic,9.663695,76.414395,domestic
+144598,5685,H5N1 (HPAI),,3/07/2024,19/05/2025,97,"Ward 1, Vechoor",Birds,Domestic,9.679822,76.417773,domestic
+134798,5685,H5N1 (HPAI),,19/04/2024,19/05/2025,43,Ward 4 Thakazhy,Birds,Domestic,9.384177,76.421358,domestic
+112127,4701,H5N1 (HPAI),,7/11/2022,24/10/2023,5400,"Ward No. 1 Ezhankeri Padam, Karuvatta Panchayat",Birds,Domestic,9.3415,76.4221,domestic
+97665,4171,empty strain - H5N1 (HPAI),,29/11/2021,21/12/2023,2257,Ward No.1 Karuvatta,Birds,Domestic,9.3421,76.4221,domestic
+97664,4171,empty strain - H5N1 (HPAI),,30/11/2021,21/12/2023,8841,Ward No 1 Karuvatta,Birds,Domestic,9.34154,76.42215,domestic
+90806,3477,empty strain - H5N8 (HPAI),,19/11/2020,21/12/2023,9303,Kudavechoor,Birds,Domestic,9.6603,76.4244,domestic
+112172,4701,H5N1 (HPAI),,16/12/2022,24/10/2023,695,Ward No. 2 Vechoor ,Birds,Domestic,9.6899,76.4248,domestic
+112128,4701,H5N1 (HPAI),,12/11/2022,24/10/2023,57,Ward No. 4 Karuvatta,Birds,Domestic,9.3167,76.4259,domestic
+80208,3477,H5N8 (HPAI),,27/12/2020,21/12/2023,2750,Karuvatta,Birds,Domestic,9.3107,76.4305,domestic
+112170,4701,H5N1 (HPAI),,7/12/2022,24/10/2023,200,Ward No.9 Thalayazham,Birds,Domestic,9.694,76.4338,domestic
+97551,4171,empty strain - H5N1 (HPAI),,29/11/2021,21/12/2023,787,Vechoor Panchayat Kattamada,Birds,Domestic,9.67966,76.4365,domestic
+97552,4171,empty strain - H5N1 (HPAI),,29/11/2021,21/12/2023,3123,"Madanan, Vechoor Panchayat Kattamada",Birds,Domestic,9.67966,76.4365,domestic
+97563,4171,empty strain - H5N1 (HPAI),,29/11/2021,21/12/2023,954,Vechoor Panchayat Kattamada ,Birds,Domestic,9.67966,76.43651,domestic
+97562,4171,empty strain - H5N1 (HPAI),,10/12/2021,21/12/2023,737,"Vadakkepallippadam, Kurarakom Panchayat",Birds,Domestic,9.62082,76.43694,domestic
+97565,4171,empty strain - H5N1 (HPAI),,10/12/2021,21/12/2023,1619,Vadakkepallippadam Kumarakom Panchayat,Birds,Domestic,9.62082,76.43694,domestic
+90315,3496,empty strain - H5N1 (HPAI),,25/02/2021,8/02/2023,25,Tidi Pimpalgaon/ Selu,Birds,Domestic,19.3579,76.4392,domestic
+97556,4171,empty strain - H5N1 (HPAI),,1/12/2021,21/12/2023,5319,Kallara Panchayat Vendhakary Kizhakkechira,Birds,Domestic,9.723821,76.4415,domestic
+112126,4701,H5N1 (HPAI),,25/10/2022,24/10/2023,6000,"Ward No. 1, Cheruthana Village, Cheruthanna Panchayath Karthikapally ",Birds,Domestic,9.34139,76.4424,domestic
+144545,5685,H5N1 (HPAI),,9/05/2024,19/05/2025,6000,"Ward 13, Thalvady Panchayat",Birds,Domestic,9.44403,76.444133,domestic
+134795,5685,H5N1 (HPAI),,9/04/2024,19/05/2025,9000,"Ward 1 Edathua, Champakulam",Birds,Domestic,9.411045,76.447921,domestic
+134796,5685,H5N1 (HPAI),,11/04/2024,19/05/2025,11000,Ward 3 Cheruthana,Birds,Domestic,9.324581,76.452046,domestic
+97663,4171,empty strain - H5N1 (HPAI),,3/12/2021,21/12/2023,5185,Ward No. 3 Cheruthana,Birds,Domestic,9.32432,76.45214,domestic
+112174,4701,H5N1 (HPAI),,22/12/2022,24/10/2023,2232,Ward No.1 Kallara Kuduthuruthy ,Birds,Domestic,9.7191,76.4572,domestic
+126628,4701,H5N1 (HPAI),,9/01/2023,24/10/2023,43,"Ward 11 Kavalam, Vellyanad",Birds,Domestic,9.47033,76.457405,domestic
+97672,4171,empty strain - H5N1 (HPAI),,31/12/2021,21/12/2023,2270,"Nalupadam, Ambalapuzha(N)",Birds,Domestic,9.30654,76.4685,domestic
+90084,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,68,Warwati,Birds,Domestic,18.785,76.4691,domestic
+134800,5685,H5N1 (HPAI),,21/04/2024,19/05/2025,3500,"Ward 10 Edathua, Champakulam",Birds,Domestic,9.34491,76.46914,domestic
+108598,4701,H5N1 (HPAI),,17/10/2022,24/10/2023,6500,"Vazhuthanam Pandinjaru Ward 9 Chirakkil Kuzhi, Padasekharam, Hapipad",Birds,Domestic,9.306458,76.469252,domestic
+90055,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,285,Khurdwadi,Birds,Domestic,18.2716,76.4708,domestic
+112173,4701,H5N1 (HPAI),,19/12/2022,24/10/2023,97,"Ward No.13 Viruppukala Padam, Neendoor ",Birds,Domestic,9.6695,76.4767,domestic
+97553,4171,empty strain - H5N1 (HPAI),,1/12/2021,21/12/2023,2083,"Vidynathan, Aymanam Panchayat, Ikarashala Paadashekharam",Birds,Domestic,9.625587,76.478303,domestic
+97555,4171,empty strain - H5N1 (HPAI),,1/12/2021,21/12/2023,775,"R Raghu, Ayamanam Panchayat, Ikarashala Paadashekharam",Birds,Domestic,9.625587,76.478303,domestic
+80202,3477,H5N8 (HPAI),,21/12/2020,21/12/2023,8140,Pallippad,Birds,Domestic,9.2804,76.4819,domestic
+108596,4701,H5N1 (HPAI),,16/10/2022,24/10/2023,6000,"Vazhuthanam Vadakku, Ward 9 Thamarapalladi Padasekharam, Haripad",Birds,Domestic,9.305932,76.481955,domestic
+144550,5685,H5N1 (HPAI),,8/05/2024,19/05/2025,38,"Ward-3, Champakulam",Birds,Domestic,9.354627,76.484401,domestic
+112169,4701,H5N1 (HPAI),,8/12/2022,24/10/2023,865,"Ward No. 2, Payavattam Padam, Arpookkara",Birds,Domestic,9.6468,76.4868,domestic
+112175,4701,H5N1 (HPAI),,30/12/2022,24/10/2023,529,"Ward No.2 Karippurath House Kattikunnu, Chembu, Viakom ",Birds,Domestic,9.6397,76.4895,domestic
+33579,1671,H5N1 (HPAI),,11/12/2014,19/03/2015,22,Sukhna lake,Birds,Domestic,30.44,76.49,domestic
+112171,4701,H5N1 (HPAI),,16/12/2022,24/10/2023,371,"Ward No.2 Makothara Padam, Arpookkara",Birds,Domestic,9.6486,76.4984,domestic
+80209,3477,H5N8 (HPAI),,28/12/2020,21/12/2023,1770,Neendoor,Birds,Domestic,9.671296,76.4984606,domestic
+90076,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,8,"Davangaon, Renapur",Birds,Domestic,18.5916,76.5011,domestic
+134799,5685,H5N1 (HPAI),,21/04/2024,19/05/2025,6471,"Ward-20, Odetty South Padasekharam, Vazhapally",Birds,Domestic,9.44698,76.50346,domestic
+63676,2910,Red sea bream iridoviral disease,Diseases of fish,18/01/2018,3/02/2019,5000,"Seetha River Estuary, Haradi",Lates calcarifer,Domestic,13.4358,74.7167,domestic
+63984,2924,Tilapia lake virus (TiLV) disease,,27/07/2016,21/06/2019,4000,Mahakaltala,Oreochromis spp,Domestic,22.8172,88.4181,domestic
+63985,2924,Tilapia lake virus (TiLV) disease,,3/07/2017,21/06/2019,12000,East Kolkata wetland,Oreochromis spp,Domestic,22.53361,88.44166,domestic
+63986,2924,Tilapia lake virus (TiLV) disease,,27/07/2017,21/06/2019,6000,Ernakulam,Oreochromis spp,Domestic,9.12211,76.48255,domestic
+67735,3063,Lumpy skin disease,Bovidae,12/08/2019,20/07/2023,9,Khairbani,Cattle,Domestic,21.585458,86.91667,domestic
+67736,3063,Lumpy skin disease,Bovidae,17/08/2019,20/07/2023,20,Patalipura,Cattle,Domestic,21.636522,86.857682,domestic
+67737,3063,Lumpy skin disease,Bovidae,20/08/2019,20/07/2023,50,Rajendrapur,Cattle,Domestic,20.9605,86.3711,domestic
+144557,5685,H5N1 (HPAI),,23/05/2024,19/05/2025,10028,"Ettiyakari Padam, Ward-1, Paippad",Birds,Domestic,9.4074472,76.5112216,domestic
+126630,4701,H5N1 (HPAI),,18/01/2023,24/10/2023,709,"ICAR-KVK, Alappuzha, CPCRI, Kayamlulam",Birds,Domestic,9.1482,76.5134,domestic
+144543,5685,H5N1 (HPAI),,2/05/2024,19/05/2025,346,"Government Duck Farm Ward-6, Niranam ",Birds,Domestic,9.3426,76.5137,domestic
+90313,3496,empty strain - H5N1 (HPAI),,20/02/2021,8/02/2023,300,"Ramewadi, Parli",Birds,Domestic,18.8527,76.5251,domestic
+126629,4701,H5N1 (HPAI),,12/01/2023,24/10/2023,13,"Ward 2, Nedumpuram",Birds,Domestic,9.374,76.5294,domestic
+72544,3190,African swine fever,Suidae,24/02/2020,30/06/2023,1897,Pipolguri,Swine,Domestic,27.4299,94.6863,domestic
+72545,3190,African swine fever,Suidae,7/03/2020,30/06/2023,163,Kotiyori,Swine,Domestic,27.2036,94.6824,domestic
+72546,3190,African swine fever,Suidae,20/03/2020,30/06/2023,317,Bor-Tamuli-II,Swine,Domestic,26.8005,93.6421,domestic
+72547,3190,African swine fever,Suidae,23/03/2020,30/06/2023,326,Khelowa,Swine,Domestic,26.988,94.7282,domestic
+72548,3190,African swine fever,Suidae,2/04/2020,30/06/2023,22,Gorchuk,Swine,Domestic,26.1051,91.7121,domestic
+72549,3190,African swine fever,Suidae,2/04/2020,30/06/2023,62,Nitai-pukhuri,Swine,Domestic,27.2393,94.7364,domestic
+72550,3190,African swine fever,Suidae,10/04/2020,30/06/2023,956,Bormukoli,Swine,Domestic,26.7623,94.0069,domestic
+72830,3190,African swine fever,Suidae,26/01/2020,30/06/2023,123,Bamin,Swine,Domestic,27.5636,95.1122,domestic
+72831,3190,African swine fever,Suidae,26/01/2020,30/06/2023,165,Pasighat Town,Swine,Domestic,28.0343,94.1933,domestic
+72832,3190,African swine fever,Suidae,26/01/2020,30/06/2023,156,"Huchang, Damsite",Swine,Domestic,27.0544,93.4225,domestic
+72833,3190,African swine fever,Suidae,23/04/2020,30/06/2023,12,"D-Sector, Nirjuli",Swine,Domestic,27.0812,93.4535,domestic
+126633,4701,H5N1 (HPAI),,20/01/2023,24/10/2023,2,"Ward 14 Kochuparambil, Kavanady",Birds,Domestic,9.515615,76.535319,domestic
+126635,4701,H5N1 (HPAI),,24/01/2023,24/10/2023,4,Ward 9 Nedumpuram,Birds,Domestic,9.36385,76.56018,domestic
+144566,5685,H5N1 (HPAI),,6/06/2024,19/05/2025,156,"Ward-2, Chumathra",Birds,Domestic,9.410551,76.569621,domestic
+126631,4701,H5N1 (HPAI),,18/01/2023,24/10/2023,20,Ward 34 Thiruvalla,Birds,Domestic,9.3827475,76.570442,domestic
+126632,4701,H5N1 (HPAI),,18/01/2023,24/10/2023,6,Ward No. 38 Thiruvalla Municipality,Birds,Domestic,9.39949,76.57128,domestic
+126634,4701,H5N1 (HPAI),,24/01/2023,24/10/2023,25,Ward no. 24 Thuruvalla,Birds,Domestic,9.370921,76.572023,domestic
+144553,5685,H5N1 (HPAI),,19/05/2024,19/05/2025,630,"Regional Poultry Farm, Ward-13, Manarcaud",Birds,Domestic,9.5831356,76.5829531,domestic
+90047,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,7,"Kupta, Selu",Birds,Domestic,19.4464,76.6084,domestic
+144546,5685,H5N1 (HPAI),,10/05/2024,19/05/2025,2000,"Ward-11, Thazhakkara",Birds,Domestic,9.215305,76.611319,domestic
+73296,3206,H5N1 (HPAI),,12/03/2020,4/09/2020,16,Kumbarkoppalu,Birds,Domestic,12.346262,76.633219,domestic
+154280,6366,empty strain - H5N1 (HPAI),,21/02/2025,10/07/2025,3420,"Regional Poultry Breeding & Training Centre, Kurikuppa",Birds,Domestic,15.214028,76.65661,domestic
+90045,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,1,Pedgaon,Birds,Domestic,19.3144,76.6675,domestic
+144542,5685,H5N1 (HPAI),,2/05/2024,19/05/2025,2854,"Ward 9 Ambalapuzha North, Ambalapuzha, Alappuzha",Birds,Domestic,9.39758,76.68308,domestic
+90049,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,245,Kenderwadi,Birds,Domestic,18.6112,76.7481,domestic
+81529,3531,H5N1 (HPAI non. Plt),,8/01/2021,21/07/2023,1,Siswan Dam Catchment Area,Anser indicus,Wild,30.873631,76.76059,wild
+1857,100,H5N1 (HPAI),,18/04/2006,27/04/2006,,"Janave, Jalgaon, Ichkheda",Birds,Domestic,20.93158,76.7645,domestic
+112176,4701,H5N1 (HPAI),,26/12/2022,24/10/2023,962,"Kerala Gramin Farm, Perunguzhy Azhoor Panchayat",Birds,Domestic,8.618,76.8002,domestic
+90637,3935,empty strain - H5N8 (HPAI),,11/01/2021,21/12/2023,21240,"Derbassi, Behra Aplha Poultry Farm",Birds,Domestic,30.5887,76.8471,domestic
+90638,3935,empty strain - H5N8 (HPAI),,19/01/2021,21/12/2023,16368,"DEra Bassi, Behra, Evergreen Poultry Farm",Birds,Domestic,30.5887,76.8471,domestic
+90639,3935,empty strain - H5N8 (HPAI),,11/01/2021,21/12/2023,24146,"DEra Bassi, Behra, Royal Poultry Farm",Birds,Domestic,30.5887,76.8471,domestic
+80548,3496,H5N1 (HPAI),,7/01/2021,8/02/2023,843,Murumba,Birds,Domestic,19.314108,76.870252,domestic
+91023,3495,empty strain - H5N8 (HPAI),,1/01/2021,18/02/2023,98130,"Tara Poultry Farm, Batour, Barwala",Birds,Domestic,30.5472,76.9566,domestic
+91022,3495,empty strain - H5N8 (HPAI),,1/01/2021,18/02/2023,98452,"Maharaja Poultry Farm, Khatouli, Barwala",Birds,Domestic,30.5905,76.9729,domestic
+154285,6366,empty strain - H5N1 (HPAI),,28/02/2025,10/07/2025,15305,"Kuppagal Broiler Poultry Farm, Moka Road, Bellary",Birds,Domestic,15.208883,76.984923,domestic
+80546,3495,H5N8 (HPAI),,2/01/2021,18/02/2023,101040,"Siddharth Poultry Farm, Kheri",Birds,Domestic,30.56125,76.99781,domestic
+90051,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,15,Sukani,Birds,Domestic,18.5277,77.0399,domestic
+90052,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,25,Tondar,Birds,Domestic,18.4215,77.0521,domestic
+80547,3495,H5N8 (HPAI),,2/01/2021,18/02/2023,5680,"Nature Poultry Farm, Dandlawar",Birds,Domestic,30.56452,77.05438,domestic
+90320,3496,empty strain - H5N1 (HPAI),,7/03/2021,8/02/2023,40,"Aundha Nagnath, Ankhali",Birds,Domestic,19.43,77.11,domestic
+90147,3496,empty strain - H5N1 (HPAI),,2/02/2021,8/02/2023,35,Azadnagar,Birds,Domestic,18.3944,77.1206,domestic
+150106,6250,empty strain - H5N1 (HPAI),,23/01/2025,,66,"Ram Nagar, Udgir",Birds,Domestic,18.399592,77.13528,domestic
+46291,2156,H5N8 (HPAI non. Plt),,14/10/2016,6/06/2017,6,New Delhi,Pelecanidae (incognita),Wild,28.36,77.14,wild
+90568,3928,empty strain - H5N8 (HPAI),,6/01/2021,21/12/2023,18,"Rahatgaon, Timarni",Birds,Domestic,22.2467,77.2282,domestic
+90068,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,8,Navandyachiwadi,Birds,Domestic,18.811,77.2689,domestic
+21798,1301,H5N1 (HPAI),,12/10/2012,13/02/2013,3481,Hessarghatta,Birds,Domestic,13.04,77.3,domestic
+40236,1946,H5N1 (HPAI),,1/05/2016,5/09/2016,8200,Molkera,Birds,Domestic,17.54,77.3,domestic
+150105,6250,empty strain - H5N1 (HPAI),,20/01/2025,,70,Village Kiwala Block -Loha,Birds,Domestic,19.035629,77.306374,domestic
+90298,3496,empty strain - H5N1 (HPAI),,17/02/2021,8/02/2023,265,Asolwadi,Birds,Domestic,19.6944,77.3067,domestic
+90110,3496,empty strain - H5N1 (HPAI),,23/01/2021,8/02/2023,10,Pimpalgaon Chambhare,Birds,Domestic,20.4998,77.3076,domestic
+90078,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,5,Chikhali,Birds,Domestic,18.8882,77.34044,domestic
+90098,3496,empty strain - H5N1 (HPAI),,23/01/2021,8/02/2023,8,"Degaon Tanda, Sheritand",Birds,Domestic,18.4443,77.3743,domestic
+90107,3496,empty strain - H5N1 (HPAI),,23/01/2021,8/02/2023,50,Krushnapur,Birds,Domestic,19.5472,77.4131,domestic
+90417,3496,empty strain - H5N1 (HPAI),,18/01/2021,8/02/2023,29,Pimpari Khurd,Birds,Domestic,19.5039,77.4288,domestic
+90074,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,18,"Lokhandisawargaon, Ambejogai",Birds,Domestic,18.7021,77.4977,domestic
+35404,1718,H5N1 (HPAI),,12/04/2015,29/07/2015,41040,Thorrur,Birds,Domestic,17.24,77.5,domestic
+154318,6250,H5N1 (HPAI),,24/02/2025,,7511,Kherda Jerapure ,Birds,Domestic,20.51538,77.53992,domestic
+90090,3496,empty strain - H5N1 (HPAI),,18/01/2021,8/02/2023,239,Dhundi,Birds,Domestic,19.9102,77.569,domestic
+90095,3496,empty strain - H5N1 (HPAI),,20/01/2021,8/02/2023,48,Ujona,Birds,Domestic,20.3213,77.7683,domestic
+154319,6250,H5N1 (HPAI),,25/02/2025,,5495,Village - Anjangoan ,Birds,Domestic,20.828152,77.782663,domestic
+154283,6366,empty strain - H5N1 (HPAI),,23/02/2025,10/07/2025,492,Varadahalli ,Birds,Domestic,13.431927,77.788089,domestic
+53238,2454,H5N8 (HPAI),,26/12/2017,5/06/2018,9,Dasarahalli,Birds,Domestic,13.094694,77.836243,domestic
+90316,3496,empty strain - H5N1 (HPAI),,25/02/2021,8/02/2023,15,"Dhiman Poultry Farm, Dhankhed",Birds,Domestic,20.8628,77.839,domestic
+90057,3496,empty strain - H5N1 (HPAI),,11/01/2021,8/02/2023,7,"Umra Tanda, Paplawadi, Mahur",Birds,Domestic,19.8345,77.9657,domestic
+154312,6344,empty strain - H5N1 (HPAI),,4/02/2025,,25,N R Pet ,Birds,Domestic,15.841764,78.04274,domestic
+90080,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,9,Talahari,Birds,Domestic,19.3315,78.0762,domestic
+46290,2156,H5N8 (HPAI non. Plt),,18/10/2016,6/06/2017,28,Gwalior,Ciconia ciconia,Wild,26.12,78.1,wild
+90094,3496,empty strain - H5N1 (HPAI),,20/01/2021,8/02/2023,4591,Sawargad,Birds,Domestic,20.3952,78.128,domestic
+90571,3928,empty strain - H5N8 (HPAI),,13/01/2021,21/12/2023,132,Khamariya Gadi,Birds,Domestic,23.4078,78.222,domestic
+73390,3209,H5N1 (HPAI non. Plt),,22/03/2020,30/09/2020,29,Near Ambha Block Porsa Nagar Palika,Corvus splendens,Wild,26.6711,78.3723,wild
+73297,3207,H5N1 (HPAI),,15/03/2020,30/09/2020,76,"Meat Market, Mehgaon",Birds,Domestic,26.4929,78.6141,domestic
+73389,3209,H5N1 (HPAI non. Plt),,20/03/2020,30/09/2020,104,Collectorate Bungalow & BTI School,Corvus splendens,Wild,26.5724,78.7902,wild
+151168,6277,H5N1 (HPAI),,14/02/2025,15/07/2025,0,"Gram Salimeta, Block-Mohkhed",Birds,Domestic,21.9574,78.8991,domestic
+151074,6276,H5N1 (HPAI),,7/01/2025,15/07/2025,99,Chhindwara,Cats,Domestic,22.051283,78.937857,domestic
+151167,6277,H5N1 (HPAI),,31/01/2025,15/07/2025,0,Ward No. 18,Birds,Domestic,22.056624,78.93978,domestic
+152927,6323,empty strain - H5N1 (HPAI),,14/02/2025,,1500,"Village - Nelapatla, Mandal-Choutuppal District- Yadadri Bhuvanagiri ",Birds,Domestic,17.322722,78.955722,domestic
+148291,6218,H5N1 (HPAI non. Plt),,17/12/2024,,4,"Widlife Rescue Centre, Gorewada Zoo","Panthera pardus, Panthera tigris",Wild,21.202588,79.001493,wild
+90089,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,25,Waranga,Birds,Domestic,20.9509,79.039,domestic
+133870,5636,empty strain - H5N1 (HPAI),,29/02/2024,27/09/2024,2650,"Regional Poultry Hatchery, Seminary Hills",Birds,Domestic,21.16137,79.04288,domestic
+90325,3496,empty strain - H5N1 (HPAI),,5/04/2021,8/02/2023,2,"Neri Dungaon, Kamptee",Birds,Domestic,21.1806,79.109,domestic
+154317,6250,H5N1 (HPAI),,31/01/2025,,3,"Yashin Plot, Motha Tajbag",Birds,Domestic,21.111604,79.123069,domestic
+133868,5635,empty strain - H5N1 (HPAI),,2/02/2024,9/09/2024,10000,Chatagotla Podalakur,Birds,Domestic,14.387817,79.766798,domestic
+154316,6250,H5N1 (HPAI),,21/01/2025,,118,"Mangli, Jungnala",Birds,Domestic,20.516347,79.90125,domestic
+133869,5635,empty strain - H5N1 (HPAI),,6/02/2024,9/09/2024,2,Gummaladibba,Birds,Domestic,14.509253,79.968125,domestic
+90077,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,25,Gadchiroli,Birds,Domestic,20.1922,80.0044,domestic
+17927,1187,H5N1 (HPAI),,3/01/2012,10/01/2012,5,Sadak Arjuni,Al indeterminatum fau,Wild,21.27,80.11,wild
+73391,3209,H5N1 (HPAI non. Plt),,22/03/2020,30/09/2020,15,Near Railway Station Rithi,Corvus splendens,Wild,23.9048,80.1403,wild
+90092,3496,empty strain - H5N1 (HPAI),,18/01/2021,8/02/2023,167,Nimba,Birds,Domestic,21.2137,80.3326,domestic
+154313,6344,empty strain - H5N1 (HPAI),,11/02/2025,,14500,"Anumolulanka, Gumpalagudem, NTR ",Birds,Domestic,16.983283,80.544214,domestic
+90651,3940,empty strain - H5N8 (HPAI),,17/01/2021,21/12/2023,3,"Sikandarpur Karan, Hadha",Birds,Domestic,26.4526,80.566,domestic
+154314,6344,empty strain - H5N1 (HPAI),,19/02/2025,,3150,"Deeplanagar Village- Krishnaraopalem,",Birds,Domestic,16.926535,80.637085,domestic
+90653,3941,empty strain - H5N8 (HPAI),,8/01/2021,21/12/2023,224,"Dhundi, Gidhali",Birds,Domestic,20.6797,81.0358,domestic
+81530,3532,H5N1 (HPAI),,14/01/2021,21/12/2023,3,Chhaati,Birds,Domestic,20.679774,81.08358,domestic
+22746,1415,H5N1 (HPAI),,30/07/2013,11/11/2013,464,Anjora,Birds,Domestic,21.11,81.16,domestic
+154310,6344,empty strain - H5N1 (HPAI),,14/01/2025,,350000,"Badampudi Ungutur Mandal, Eluru ",Birds,Domestic,16.837145,81.474185,domestic
+35119,1718,H5N1 (HPAI),,4/03/2015,23/06/2015,187,Sari Ka Purwa,Birds,Domestic,26.09,81.48,domestic
+35190,1718,H5N1 (HPAI),,20/03/2015,30/07/2015,1,Pahadpur Gaderiya Deeh,Corvus splendens,Wild,26.09,81.48,wild
+22747,1415,H5N1 (HPAI),,30/07/2013,11/11/2013,3600,Jagadalpur,Birds,Domestic,19.05,81.58,domestic
+154311,6344,empty strain - H5N1 (HPAI),,17/01/2025,,70907,Velpuru,Birds,Domestic,16.724383,81.662728,domestic
+154307,6344,empty strain - H5N1 (HPAI),,11/01/2025,,89024,"Kanuru Agraharam, Peravali Mandal,",Birds,Domestic,16.830111,81.74575,domestic
+35191,1718,H5N1 (HPAI),,20/03/2015,30/07/2015,2,Haliapur,Corvus splendens,Wild,26.15,82.04,wild
+154308,6344,empty strain - H5N1 (HPAI),,12/02/2025,,10000,"Pithapuram Urban, Ward -21, Kakinada, ",Birds,Domestic,17.098222,82.250639,domestic
+154309,6344,empty strain - H5N1 (HPAI),,14/02/2025,,8000,"Chendurthy, Gollaprolu, Kakinada, ",Birds,Domestic,17.226306,82.303694,domestic
+69129,3090,H5N1 (HPAI),,7/12/2019,13/05/2020,5634,"Government Poultry Farming Region, Baikunthpur",Birds,Domestic,23.2621,82.5605,domestic
+161598,6261,H5N1 (HPAI),,21/03/2025,21/07/2025,13940,"Regional Poultry Farm, Baikunthpur",Birds,Domestic,23.263994,82.565436,domestic
+71606,3172,H5N1 (HPAI non. Plt),,8/02/2020,8/02/2020,3,Mohan Sarai,Corvus splendens,Wild,25.27426,82.87214,wild
+90652,3532,empty strain - H5N1 (HPAI),,1/02/2021,21/12/2023,259,Sakola,Birds,Domestic,23.0938,83.1307,domestic
+150709,6261,empty strain - H5N1 (HPAI),,28/01/2025,21/07/2025,442,"Government Poultry Farm, Raigarh",Birds,Domestic,21.887572,83.407596,domestic
+54823,2484,H5N1 (HPAI non. Plt),,23/03/2018,5/04/2018,80,Hardi Dali,Corvus splendens,Wild,27.44694444,83.41638889,wild
+60612,2776,H5N1 (HPAI non. Plt),,9/01/2019,3/09/2019,32,"Chhawani Bagicha (Ward No.16, Nagar Panchayat Kochus)",Corvus splendens,Wild,25.325468,83.931253,wild
+46462,2128,H5N1 (HPAI),,4/01/2017,6/06/2017,11,Kacharu,Birds,Domestic,22.17,84.49,domestic
+17928,1187,H5N1 (HPAI),,10/01/2012,3/02/2012,6,Fatehpur,Al indeterminatum fau,Wild,24.46,84.58,wild
+73502,3210,H5N1 (HPAI non. Plt),,5/03/2020,30/09/2020,7,"Chainpura, Kuv, Dulhin Bazar",Harpactes erythrocephalus,Wild,25.4989,84.859,wild
+161603,6374,H5N1 (HPAI),,30/03/2025,21/07/2025,2,"MMP Pond, Ward No, 12, Ara Sadar, Dist-Bhojpur ",Birds,Domestic,25.561179,84.861193,domestic
+154684,6391,empty strain - H5N1 (HPAI non. Plt),,16/02/2025,21/07/2025,5,Police line,Corvus splendens,Wild,25.1967,84.986813,wild
+91819,3190,African swine fever,Suidae,9/03/2021,30/06/2023,248,Keitum Village,Swine,Domestic,23.232,92.9114,domestic
+91820,3190,African swine fever,Suidae,21/03/2021,30/06/2023,1514,"Lungsen, Lunglei",Swine,Domestic,22.4897,92.9793,domestic
+91821,3190,African swine fever,Suidae,26/03/2021,30/06/2023,4,Vaihpi-I,Swine,Domestic,22.4897,92.9792,domestic
+91822,3190,African swine fever,Suidae,29/03/2021,30/06/2023,266,"Bawngkawn Veng, Tlangnuam",Swine,Domestic,23.7557,92.7295,domestic
+91823,3190,African swine fever,Suidae,27/06/2021,30/06/2023,31,"Mega Seed Farm, Seleish, Tlangnuam",Swine,Domestic,23.80416,92.73083,domestic
+91829,3190,African swine fever,Suidae,11/11/2020,30/06/2023,15,Village Wakha,Swine,Domestic,24.7807,93.9674,domestic
+91830,3190,African swine fever,Suidae,12/11/2020,30/06/2023,52,"Salungpham, Wangjing",Swine,Domestic,24.5436,93.9671,domestic
+91831,3190,African swine fever,Suidae,15/03/2021,30/06/2023,35,"Pig Breeding Farm, Phek",Swine,Domestic,25.6634,94.4703,domestic
+91832,3190,African swine fever,Suidae,10/03/2021,30/06/2023,1796,Pungro,Swine,Domestic,25.8689,94.7853,domestic
+92039,3190,African swine fever,Suidae,25/06/2020,30/06/2023,30,"Lamin, Amlarem",Swine,Domestic,25.214686,92.028044,domestic
+92041,3190,African swine fever,Suidae,31/07/2020,30/06/2023,1,"Umkdait, Mawpat",Swine,Domestic,25.58883,91.91388,domestic
+92042,3190,African swine fever,Suidae,31/07/2020,30/06/2023,3,"Shangpung Moosyiem, Laskein",Swine,Domestic,25.4734,92.3829,domestic
+92043,3190,African swine fever,Suidae,31/07/2020,30/06/2023,2,"Mawshbuit Norgrim, Mawryngkneng",Swine,Domestic,25.55944,91.93833,domestic
+92045,3190,African swine fever,Suidae,2/08/2020,30/06/2023,20,"Nongtalang, Amlarem",Swine,Domestic,25.209092,92.0675,domestic
+92046,3190,African swine fever,Suidae,4/08/2020,30/06/2023,3,"Nongrim Nongladew, Bhoirymbong",Swine,Domestic,25.8668,91.7458,domestic
+92047,3190,African swine fever,Suidae,4/08/2020,30/06/2023,1,"Khliehumtrew, Umsning",Swine,Domestic,25.7425,91.97334,domestic
+92048,3190,African swine fever,Suidae,4/08/2020,30/06/2023,3,"Sohlwaikrang, Sohoing",Swine,Domestic,25.59083,91.75,domestic
+92050,3190,African swine fever,Suidae,4/08/2020,30/06/2023,3,"Mawshbuit Nongkhlaw, Mawryngkneng",Swine,Domestic,25.5597,91.9383,domestic
+92051,3190,African swine fever,Suidae,5/08/2020,30/06/2023,1,"5th Mile Param, Upper Shillong, Mylliem",Swine,Domestic,25.4991,91.8186,domestic
+92053,3190,African swine fever,Suidae,5/08/2020,30/06/2023,6,"Shnonggpdeng, Amlarem",Swine,Domestic,25.20708,92.00963,domestic
+92054,3190,African swine fever,Suidae,5/08/2020,30/06/2023,1,Malwai Mawdatbaki,Swine,Domestic,25.59861,91.89027,domestic
+92055,3190,African swine fever,Suidae,6/08/2020,30/06/2023,2,"Umnget, Umsning",Swine,Domestic,25.8039,91.8824,domestic
+92056,3190,African swine fever,Suidae,7/08/2020,30/06/2023,2,"Madaniingsyiem Lumbangla, Mylliem",Swine,Domestic,25.3429,92.3255,domestic
+92075,3190,African swine fever,Suidae,7/08/2020,30/06/2023,2,"Mawlyngkhing, Umsning",Swine,Domestic,25.669,91.902,domestic
+92076,3190,African swine fever,Suidae,8/08/2020,30/06/2023,4,"Umsaitsning, Umsning",Swine,Domestic,25.7555,91.901,domestic
+61607,2776,H5N1 (HPAI non. Plt),,1/02/2019,3/09/2019,18,"Collector Office Campus, Jehanabad",Corvus splendens,Wild,25.216151,84.996358,wild
+60342,2776,H5N1 (HPAI non. Plt),,16/12/2018,16/12/2018,3,Muthagadia,Corvus splendens,Wild,20.1153,85.0725,wild
+154505,6374,empty strain - H5N1 (HPAI),,26/02/2025,21/07/2025,2,"ICAR REsearch Complex for Eatern Region, Patna",Birds,Domestic,25.594078,85.086904,domestic
+47309,2128,H5N1 (HPAI),,30/01/2017,6/06/2017,2091,"State Poultry Breeding and Research Farm, Angul",Birds,Domestic,20.5,85.09,domestic
+97435,4322,empty strain - H5N1 (HPAI),,18/01/2022,21/12/2023,1800,"Poultry Research and Training Centre, BASU, Patna",Birds,Domestic,25.59,85.0966,domestic
+60231,2776,H5N1 (HPAI non. Plt),,16/12/2018,16/12/2018,6,Patna (Sanjay Gandhi Zoological Park),Pavo cristatus,Wild,25.59945,85.09889,wild
+161604,6374,H5N1 (HPAI),,1/04/2025,21/07/2025,32,"Baily Road, Ward 20/8 (Nagar Nigam Area), Patna Sadar",Birds,Domestic,25.604365,85.10861,domestic
+73401,3210,H5N1 (HPAI non. Plt),,18/03/2020,30/09/2020,48,High Court Campus,Corvus splendens,Wild,25.6089,85.1254,wild
+60613,2776,H5N1 (HPAI non. Plt),,9/01/2019,3/09/2019,5,B N College Campus,Corvus splendens,Wild,25.6193,85.1511,wild
+73400,3210,H5N1 (HPAI non. Plt),,15/02/2020,30/09/2020,1,"B26, Lohia Nagar Housing Colony",Corvus splendens,Wild,25.597,85.1551,wild
+73402,3210,H5N1 (HPAI non. Plt),,19/03/2020,30/09/2020,1,"Saidpur Hostel, Bazar Samiti Road",Corvus splendens,Wild,25.6068,85.1652,wild
+60152,2765,H5N1 (HPAI),,18/12/2018,17/07/2019,,Nandala,Birds,Domestic,19.485,85.17305,domestic
+60144,2765,H5N1 (HPAI),,7/12/2018,17/07/2019,40,Brahmandeo,Birds,Domestic,19.49888,85.193611,domestic
+161602,6374,H5N1 (HPAI),,24/03/2025,21/07/2025,2250,"Marcha, GP-Marchi, Patna Sadar",Birds,Domestic,25.547118,85.21982,domestic
+60216,2765,H5N1 (HPAI),,17/12/2018,17/07/2019,4728,"Nuagaon, Kantabania & Udayagiri",Birds,Domestic,19.539743,85.232267,domestic
+59825,2765,H5N1 (HPAI),,7/12/2018,17/07/2019,5603,Budhibara(Sanasahi) and Patharagang,Birds,Domestic,19.56816,85.241236,domestic
+60143,2765,H5N1 (HPAI),,7/12/2018,17/07/2019,,Malud,Birds,Domestic,19.555775,85.247881,domestic
+60149,2765,H5N1 (HPAI),,10/12/2018,17/07/2019,,Epinga (Bauripalli),Birds,Domestic,19.62541,85.25196,domestic
+60217,2765,H5N1 (HPAI),,17/12/2018,17/07/2019,2500,Naba,Birds,Domestic,19.547775,85.267157,domestic
+60145,2765,H5N1 (HPAI),,10/12/2018,17/07/2019,,Kanheipur (Harijansahi),Birds,Domestic,19.57919,85.27755,domestic
+59831,2766,H5N1 (HPAI non. Plt),,7/12/2018,14/12/2018,120,Alanda and Siala,Corvus splendens,Wild,19.6275,85.30194444,wild
+61829,2776,H5N1 (HPAI non. Plt),,7/02/2019,3/09/2019,1,"Oxygen Park, Morhabadi",Corvus splendens,Wild,23.3441,85.3096,wild
+129136,4950,H5N1 (HPAI),,26/02/2023,6/12/2023,18,"Jail More, Ward No.19, Ranchi Municipal Coorporation ",Birds,Domestic,23.37881,85.32823,domestic
+154510,6376,H5N1 (HPAI),,28/01/2025,,10,"Poultry Farm, College of Veterinary Science and AH (BAU)",Birds,Domestic,23.441723,85.33616,domestic
+150708,5684,H5N1 (HPAI),,4/05/2024,12/02/2025,305,"Ramakrishna Mission Ashram, Morabadi",Birds,Domestic,23.39791,85.338741,domestic
+23796,1508,H5N1 (HPAI),,31/01/2014,21/02/2014,2,Joda,Corvus splendens,Wild,21.37,85.34,wild
+17514,1169,H5N1 (HPAI),,3/01/2012,30/04/2012,3,Keranga,Birds,Domestic,20.11,85.37,domestic
+134794,5684,empty strain - H5N1 (HPAI),,4/04/2024,12/02/2025,136,"Regional Poultry Farm, Hotwar",Birds,Domestic,23.387,85.386,domestic
+105366,3190,African swine fever,Suidae,4/04/2022,30/06/2023,4,"Kopibari, Block Syari",Swine,Domestic,27.3218,88.6194,domestic
+105367,3190,African swine fever,Suidae,27/03/2022,30/06/2023,2,Lingding,Swine,Domestic,27.2719,88.6176,domestic
+105368,3190,African swine fever,Suidae,8/03/2022,30/06/2023,5,Phenzang Block Ranka,Swine,Domestic,27.3438,88.5874,domestic
+105369,3190,African swine fever,Suidae,4/03/2022,30/06/2023,1,"Rabong Bazaar, Rabong",Swine,Domestic,27.1733,88.2134,domestic
+105370,3190,African swine fever,Suidae,6/03/2022,30/06/2023,3,Lower Rangrang Block Rangrang District Namchi,Swine,Domestic,27.1907,88.3726,domestic
+105371,3190,African swine fever,Suidae,5/03/2022,30/06/2023,1,Upper Tanak Block Tanak District Namchi,Swine,Domestic,27.1433,88.2649,domestic
+105372,3190,African swine fever,Suidae,21/03/2022,30/06/2023,2,Upper Khamdong Distrct Gaggtok,Swine,Domestic,27.2653,88.484,domestic
+105373,3190,African swine fever,Suidae,10/03/2022,30/06/2023,1,Mangan Zero Block Magan,Swine,Domestic,27.4095,88.5802,domestic
+105374,3190,African swine fever,Suidae,3/04/2022,30/06/2023,1,"Tubuk, Upper Mangshila, Distrct Mangan",Swine,Domestic,27.4337,88.5204,domestic
+105375,3190,African swine fever,Suidae,10/03/2022,30/06/2023,5,"Toribari Block Pacheykhani, Pakyong",Swine,Domestic,27.213537,88.6027,domestic
+105376,3190,African swine fever,Suidae,25/03/2022,30/06/2023,1,Singrip Block Soreng District Soreng ,Swine,Domestic,27.2433,88.2704,domestic
+106127,3063,Lumpy skin disease,Bovidae,7/08/2021,20/07/2023,966,"Chandoria, Badarwas",Cattle,Domestic,24.971,77.363,domestic
+106128,3063,Lumpy skin disease,Bovidae,17/08/2021,20/07/2023,28650,"Govindpura, Huzur",Cattle,Domestic,23.2507,77.4349,domestic
+106129,3063,Lumpy skin disease,Bovidae,1/09/2021,20/07/2023,748,Bhilkhera,Cattle,Domestic,22.0605,74.8829,domestic
+106130,3063,Lumpy skin disease,Bovidae,23/08/2021,20/07/2023,20,"Dichaun Kalan, South West Delhi",Cattle,Domestic,28.641298,76.984745,domestic
+106131,3063,Lumpy skin disease,Bovidae,23/08/2021,20/07/2023,4,"Digupura, South West Delhi",Cattle,Domestic,28.592893,77.034616,domestic
+106132,4588,Lumpy skin disease,Bovidae,18/06/2022,20/07/2023,25,Cheli Chounala (Maliana),Cattle,Domestic,31.06653,77.08105,domestic
+62694,2765,H5N1 (HPAI),,23/03/2019,17/07/2019,235,Govt. Duck Breeding Farm,Birds,Domestic,20.443063,85.401419,domestic
+73490,3211,H5N1 (HPAI non. Plt),,23/02/2020,30/09/2020,9,Bhagawan Birsa Biological Park,"Leptoptilos javanicus, Threskiornis melanocephalus, Tyto longimembris",Wild,23.46756,85.45409,wild
+60611,2776,H5N1 (HPAI non. Plt),,4/01/2019,3/09/2019,1,Residential Campus of Rural SP,Corvus splendens,Wild,25.372,85.482,wild
+162218,6694,empty strain - H5N1 (HPAI),,15/07/2025,,5455,Village Mundaamba Block Khordha ,Birds,Domestic,20.041303,85.538635,domestic
+162217,6694,empty strain - H5N1 (HPAI),,5/07/2025,,15173,Village Bada Ankula Block Delanga ,Birds,Domestic,20.055611,85.725903,domestic
+144752,5859,H5N1 (HPAI),,27/08/2024,3/01/2025,16280,"Gada Motari, Delanga",Birds,Domestic,20.094537,85.729339,domestic
+17919,1169,H5N1 (HPAI),,1/02/2012,5/06/2012,5015,Nayapalli (Ward No. 10) of Bhubaneswar Municipality,Birds,Domestic,20.28,85.79,domestic
+139218,5859,empty strain - H5N1 (HPAI),,16/08/2024,3/01/2025,8000,"Abalpur, Pipili",Birds,Domestic,20.029762,85.802335,domestic
+60614,2776,H5N1 (HPAI non. Plt),,15/01/2019,3/09/2019,1,"Unit-8, Govt. Quarters",Ardeola grayii,Wild,20.2758,85.8084,wild
+70441,3140,H5N1 (HPAI),,20/01/2020,4/09/2020,2372,"All India Coordinated Research Project (AICRP) on Poultry Breeding Farm, College of Veterinary Science and Animal Husbandry, Orissa University of Agriculture & Technology (OUAT), Bhubaneswar, Odhisa",Birds,Domestic,20.266437,85.815518,domestic
+61617,2776,H5N1 (HPAI non. Plt),,28/01/2019,3/09/2019,25,Gomia,Corvus splendens,Wild,23.8081,85.8233,wild
+139219,5859,empty strain - H5N1 (HPAI),,19/08/2024,3/01/2025,3130,"Dhojamundei, Satyabadi",Birds,Domestic,19.95582,85.871811,domestic
+60343,2776,H5N1 (HPAI non. Plt),,18/12/2018,18/12/2018,3,"Cuttack municipality, Ward no. 44",Corvus splendens,Wild,20.454265,85.879212,wild
+144753,5859,H5N1 (HPAI),,26/08/2024,3/01/2025,2100,"Katakasanga, Nimapara",Birds,Domestic,20.016841,85.91108,domestic
+45445,2128,H5N1 (HPAI),,19/12/2016,6/06/2017,19,Keranga,Birds,Domestic,20.31,86.07,domestic
+45446,2128,H5N1 (HPAI),,19/12/2016,16/06/2017,23,Keranga,Corvidae (incognita),Wild,20.31,86.07,wild
+17925,1187,H5N1 (HPAI),,30/10/2011,13/12/2011,1143,Jamshedpur,Al indeterminatum fau,Wild,22.48,86.12,wild
+115278,4950,H5N1 (HPAI),,2/02/2023,6/12/2023,2615,"Government Poultry Farm, Bokaro",Birds,Domestic,23.6292,86.1382,domestic
+154511,6376,H5N1 (HPAI),,24/02/2025,,214,"Regional Poultry Farm, Bokaro",Birds,Domestic,23.6285588,86.138239,domestic
+144755,5859,H5N1 (HPAI),,3/09/2024,3/01/2025,999,"Ender, Derabish",Birds,Domestic,20.557034,86.278017,domestic
+144754,5859,H5N1 (HPAI),,6/09/2024,3/01/2025,3414,"Balia, Derabish ",Birds,Domestic,20.545892,86.285453,domestic
+10149,435,H5N1 (HPAI),,22/01/2008,4/11/2008,130,Santuri,Birds,Domestic,23.3273,86.3616,domestic
+17588,1169,H5N1 (HPAI),,6/01/2012,11/07/2012,19,Bahanada,Birds,Domestic,21.55,86.44,domestic
+17926,1187,H5N1 (HPAI),,3/01/2012,11/01/2012,5,Mayurbhanj,Al indeterminatum fau,Wild,21.55,86.44,wild
+60230,2776,H5N1 (HPAI non. Plt),,15/12/2018,15/12/2018,40,Mubarakchak,Corvus splendens,Wild,25.3652,86.4922,wild
+60618,2775,H5N1 (HPAI),,15/12/2018,5/07/2019,50,Mubarakchak,Birds,Domestic,25.365209,86.492232,domestic
+101643,4322,empty strain - H5N1 (HPAI),,30/03/2022,21/12/2023,20,"Chapkahi, Ward No. 11, Piprakhurd Panchayat",Birds,Domestic,26.10138,86.55111,domestic
+154683,6391,empty strain - H5N1 (HPAI non. Plt),,5/03/2025,21/07/2025,10,"Teghara, Rathaitha",Corvus splendens,Wild,25.125,86.581589,wild
+54183,2484,H5N1 (HPAI non. Plt),,11/02/2018,5/06/2018,173,Paradeep,Corvus splendens,Wild,20.31638889,86.61166667,wild
+54279,2495,H5N1 (HPAI),,11/02/2018,5/06/2018,,Sandhakunda and Badapadia Paradeep,Birds,Domestic,20.31638889,86.61166667,domestic
+60155,2775,H5N1 (HPAI),,15/11/2018,5/07/2019,117,Goraho,Birds,Domestic,25.191151,86.62709,domestic
+61830,2776,H5N1 (HPAI non. Plt),,13/02/2019,3/09/2019,9,Palojori Police Station,Corvus splendens,Wild,24.1502,86.6397,wild
+118120,5039,H5N1 (HPAI),,17/03/2023,20/12/2023,26,"Regional Poultry Farm, Barari, Jagdishpir Ward 28",Birds,Domestic,25.262772,87.013378,domestic
+154506,6374,empty strain - H5N1 (HPAI),,23/02/2025,21/07/2025,1688,"Regional Poultry Farm, Burari, Jagdishpur, Ward.28 ",Birds,Domestic,25.262966,87.0136607,domestic
+10136,435,H5N1 (HPAI),,17/01/2008,4/11/2008,400,Saltora,Birds,Domestic,23.249,87.0806,domestic
+10141,435,H5N1 (HPAI),,19/01/2008,4/11/2008,380,Mejia,Birds,Domestic,23.249,87.0806,domestic
+60620,2775,H5N1 (HPAI),,3/01/2019,5/07/2019,7,Babura,Birds,Domestic,25.088746,87.095517,domestic
+61616,2776,H5N1 (HPAI non. Plt),,28/01/2019,3/09/2019,12,"DC Campus, Godda",Corvus splendens,Wild,24.8255,87.2135,wild
+22222,1341,H5N1 (HPAI),,27/02/2013,15/06/2013,338,Madhubani,Birds,Domestic,25.47,87.27,domestic
+61484,2808,H5N1 (HPAI),,25/01/2019,2/09/2019,26,Fajilkhutahari,Birds,Domestic,25.180833,87.349167,domestic
+10152,435,H5N1 (HPAI),,25/01/2008,4/11/2008,,Debra,Birds,Domestic,22.4242,87.3567,domestic
+118121,5039,H5N1 (HPAI),,13/04/2023,20/12/2023,2,"Agri Gold Farm, Kaliganj, ",Birds,Domestic,25.750341,87.54004,domestic
+154512,6376,H5N1 (HPAI),,21/02/2025,,40,"Primary Health Centre, Salgapara",Birds,Domestic,24.403135,87.653026,domestic
+10138,435,H5N1 (HPAI),,17/01/2008,4/11/2008,41500,"Mohammed Bazar, Nanur",Birds,Domestic,23.8018,87.7133,domestic
+10142,435,H5N1 (HPAI),,19/01/2008,4/11/2008,863,"Nalhatti-I, Bolpur-Sriniketan",Birds,Domestic,23.8018,87.7133,domestic
+10151,435,H5N1 (HPAI),,22/01/2008,4/11/2008,2840,"Mayureswar II, Khoirasole",Birds,Domestic,23.8018,87.7133,domestic
+10156,435,H5N1 (HPAI),,25/01/2008,4/11/2008,53,Mayureswar-I,Birds,Domestic,23.8018,87.7133,domestic
+10157,435,H5N1 (HPAI),,26/01/2008,4/11/2008,25,"Suri-I, Mayureshwar I, Nanur",Birds,Domestic,23.8018,87.7133,domestic
+10160,435,H5N1 (HPAI),,26/01/2008,4/11/2008,,Suri-I,Birds,Domestic,23.8018,87.7133,domestic
+10133,435,H5N1 (HPAI),,15/01/2008,4/11/2008,9592,"Mangolkote, Purbasthali II",Birds,Domestic,23.2393,87.8623,domestic
+10140,435,H5N1 (HPAI),,19/01/2008,4/11/2008,,"Ktugram, Jamuria, Galsi",Birds,Domestic,23.2439,87.8802,domestic
+10145,435,H5N1 (HPAI),,23/01/2008,4/11/2008,,Raniganj,Birds,Domestic,23.2439,87.8802,domestic
+10422,435,H5N1 (HPAI),,18/03/2008,4/11/2008,,English Bazar,Birds,Domestic,24.7814,88.0257,domestic
+11497,584,H5N1 (HPAI),,13/12/2008,22/10/2009,17,Englishbazar,Birds,Domestic,25,88.08,domestic
+11902,584,H5N1 (HPAI),,17/03/2009,22/10/2009,363,Chopra,Birds,Domestic,25.27,88.1,domestic
+11857,584,H5N1 (HPAI),,8/03/2009,22/10/2009,4,Mirik,Birds,Domestic,26.53,88.1,domestic
+11594,584,H5N1 (HPAI),,2/01/2009,22/10/2009,210,Rangli Rangliot,Birds,Domestic,26.5,88.12,domestic
+10147,435,H5N1 (HPAI),,23/01/2008,4/11/2008,,Balagarh,Birds,Domestic,23.0017,88.1269,domestic
+10162,435,H5N1 (HPAI),,26/01/2008,4/11/2008,69,Chanditala-II,Birds,Domestic,23.0017,88.1269,domestic
+12151,584,H5N1 (HPAI),,20/05/2009,22/10/2009,20,Hemtabad,Birds,Domestic,25.4,88.13,domestic
+10143,435,H5N1 (HPAI),,19/01/2008,4/11/2008,,Chachal-I,Birds,Domestic,25.0954,88.1499,domestic
+12786,799,H5 (HPAI),,12/01/2010,2/06/2010,1000,Khargram,Birds,Domestic,24.1,88.16,domestic
+12895,799,H5 (HPAI),,14/01/2010,2/06/2010,379,Khargram,Birds,Domestic,24.1,88.16,domestic
+12896,799,H5 (HPAI),,14/01/2010,2/06/2010,190,Burwan,Birds,Domestic,24.1,88.16,domestic
+12969,799,H5 (HPAI),,19/01/2010,2/06/2010,280,Khargram,Birds,Domestic,24.1,88.16,domestic
+13060,799,H5 (HPAI),,18/01/2010,2/06/2010,17,Khargram,Birds,Domestic,24.1,88.16,domestic
+11816,584,H5N1 (HPAI),,13/02/2009,22/10/2009,97,Kurseong,Birds,Domestic,26.53,88.16,domestic
+10712,435,H5N1 (HPAI),,11/05/2008,4/11/2008,138,Bijanbari,Birds,Domestic,27.066,88.2,domestic
+11617,584,H5N1 (HPAI),,16/01/2009,22/10/2009,9,Hospital Road,Birds,Domestic,27.18,88.21,domestic
+11593,584,H5N1 (HPAI),,1/01/2009,22/10/2009,217,Matigara,Birds,Domestic,26.43,88.23,domestic
+10135,435,H5N1 (HPAI),,15/01/2008,4/11/2008,,"Khagram, Burdwan, Nowda, Nabagram",null,Domestic,24.1676,88.2408,domestic
+10421,435,H5N1 (HPAI),,4/03/2008,4/11/2008,56,"Raghunathganj II, Jiagang",Birds,Domestic,24.1872,88.2569,domestic
+10137,435,H5N1 (HPAI),,17/01/2008,4/11/2008,3557,"Siti-I, Sagardighi, Beldanga-I",Birds,Domestic,24.1694,88.2627,domestic
+10148,435,H5N1 (HPAI),,21/01/2008,4/11/2008,10889,Kandi,Birds,Domestic,24.1694,88.2627,domestic
+10155,435,H5N1 (HPAI),,25/01/2008,4/11/2008,1975,Shamsirganj,Birds,Domestic,24.1694,88.2627,domestic
+10161,435,H5N1 (HPAI),,26/01/2008,4/11/2008,469,Raghunathganj-II,Birds,Domestic,24.1694,88.2627,domestic
+10671,435,H5N1 (HPAI),,1/05/2008,4/11/2008,283,Kurseong,Birds,Domestic,26.883,88.283,domestic
+16960,1105,H5N1 (HPAI),,14/09/2011,28/12/2011,2285,Tehatta-1,Birds,Domestic,23.43,88.31,domestic
+10150,435,H5N1 (HPAI),,22/01/2008,4/11/2008,235,Sankrail,Birds,Domestic,22.591,88.3115,domestic
+10159,435,H5N1 (HPAI),,26/01/2008,4/11/2008,235,Panchla,Birds,Domestic,22.591,88.3115,domestic
+10134,435,H5N1 (HPAI),,15/01/2008,4/11/2008,1057,Tehatta-II,Birds,Domestic,23.4504,88.3484,domestic
+10448,435,H5N1 (HPAI),,27/03/2008,4/11/2008,200,Ranaghat II,Birds,Domestic,23.4504,88.3484,domestic
+10153,435,H5N1 (HPAI),,25/01/2008,4/11/2008,1188,Budge-Budge-II,Birds,Domestic,22.0935,88.3604,domestic
+10163,435,H5N1 (HPAI),,25/01/2008,4/11/2008,2012,Caning-2,Birds,Domestic,22.0935,88.3604,domestic
+9994,435,H5N1 (HPAI),,4/01/2008,4/11/2008,35525,"Rampurhat, Nalhati, Mayureswar",Birds,Domestic,24.319,88.377,domestic
+10139,435,H5N1 (HPAI),,17/01/2008,4/11/2008,613,"Krishnanagar-I, Tehatta-I, Kaliganj",Birds,Domestic,23.4136,88.4467,domestic
+10144,435,H5N1 (HPAI),,19/01/2008,4/11/2008,615,"Krishnanagar-I, Nakashapara, Haringhata",Birds,Domestic,23.4136,88.4467,domestic
+10158,435,H5N1 (HPAI),,26/01/2008,4/11/2008,9,Kalyani,Birds,Domestic,23.4136,88.4467,domestic
+11772,584,H5N1 (HPAI),,14/02/2009,22/10/2009,35,Harirampur,Birds,Domestic,25.12,88.46,domestic
+10423,435,H5N1 (HPAI),,22/03/2008,4/11/2008,101,Jalpaiguri Sadar,Birds,Domestic,26.8941,88.6641,domestic
+9995,435,H5N1 (HPAI),,7/01/2008,4/11/2008,261,Balurghat,Birds,Domestic,25.3606,88.7228,domestic
+11679,584,H5N1 (HPAI),,29/01/2009,22/10/2009,60,Mathabhanga-I,Birds,Domestic,26.2,89.13,domestic
+11680,584,H5N1 (HPAI),,29/01/2009,22/10/2009,50,Dinhata-I,Birds,Domestic,26.07,89.28,domestic
+10146,435,H5N1 (HPAI),,23/01/2008,4/11/2008,,Dinhata-I,Birds,Domestic,26.14,89.4562,domestic
+10154,435,H5N1 (HPAI),,25/01/2008,4/11/2008,300,Mathabhanga-I,Birds,Domestic,26.14,89.4562,domestic
+16940,1105,H5N1 (HPAI),,29/08/2011,28/12/2011,1436,Bhamondanga Pt-1,Birds,Domestic,26.25364,89.77611,domestic
+17540,1169,H5N1 (HPAI),,4/01/2012,23/04/2012,2732,William Nagar,Birds,Domestic,25.31,90.13,domestic
+11505,584,H5N1 (HPAI),,15/12/2008,22/10/2009,48,Kheluwapara Pt-II,Birds,Domestic,26.28,90.33,domestic
+11547,584,H5N1 (HPAI),,19/12/2008,22/10/2009,20,Dhaligaon,Birds,Domestic,26.28,90.33,domestic
+11482,584,H5N1 (HPAI),,5/12/2008,22/10/2009,399,Nilibari,Birds,Domestic,26.35,90.38,domestic
+11478,584,H5N1 (HPAI),,30/11/2008,22/10/2009,18,Katajhar,Birds,Domestic,26.5,90.39,domestic
+11544,584,H5N1 (HPAI),,19/12/2008,22/10/2009,45,Tihu Barama,Birds,Domestic,26.23,90.58,domestic
+11479,584,H5N1 (HPAI),,30/11/2008,22/10/2009,75,Katla,Birds,Domestic,26,91,domestic
+11504,584,H5N1 (HPAI),,15/12/2008,22/10/2009,70,Sariha Sakla,Birds,Domestic,26.19,91,domestic
+11443,584,H5N1 (HPAI),,21/11/2008,22/10/2009,324,Hajo,Birds,Domestic,26.2,91.15,domestic
+11476,584,H5N1 (HPAI),,28/11/2008,22/10/2009,682,Patgaon,Birds,Domestic,26.2,91.15,domestic
+11477,584,H5N1 (HPAI),,30/11/2008,22/10/2009,30,Sarpara,Birds,Domestic,26.2,91.15,domestic
+11480,584,H5N1 (HPAI),,5/12/2008,22/10/2009,112,Khanapara,Birds,Domestic,26.2,91.15,domestic
+11481,584,H5N1 (HPAI),,6/12/2008,22/10/2009,500,Jalah,Birds,Domestic,26.2,91.15,domestic
+11506,584,H5N1 (HPAI),,15/12/2008,22/10/2009,20,"Kharghuli Jaipur, Ward No.37",Birds,Domestic,26.2,91.15,domestic
+11545,584,H5N1 (HPAI),,17/12/2008,22/10/2009,75,Hajo,Birds,Domestic,26.2,91.15,domestic
+11546,584,H5N1 (HPAI),,17/12/2008,22/10/2009,137,Chayani Borduar,Birds,Domestic,26.2,91.15,domestic
+15825,1012,H5 (HPAI),,3/02/2011,4/07/2011,2198,"State Duck & Poultry Farm, RK Nagar",Birds,Domestic,23.49,91.16,domestic
+16035,1012,H5 (HPAI),,4/03/2011,4/07/2011,380,"State Poultry Farm, Gandhigram",Birds,Domestic,23.5,91.16,domestic
+19203,1169,H5N1 (HPAI),,7/03/2012,13/08/2012,2000,"State Poultry Farm, Gandhigram",Birds,Domestic,23.53,91.16,domestic
+17716,1169,H5N1 (HPAI),,16/01/2012,13/08/2012,4229,Mohanpur,Birds,Domestic,23.58,91.21,domestic
+38971,1903,H5N1 (HPAI),,7/01/2016,27/04/2016,1760,"State Poultry Farm, Gandhigram",Birds,Domestic,23.54,91.24,domestic
+10647,435,H5N1 (HPAI),,15/04/2008,4/11/2008,10,Bishalgarh,Birds,Domestic,23.675,91.289,domestic
+20933,1169,H5N1 (HPAI),,18/04/2012,13/08/2012,3168,Udaipur,Birds,Domestic,23.32,91.29,domestic
+155988,6441,H3N8 (Equ. Infl),,23/03/2025,,14,"Village- Beeron/ Basti, Rudraprayag ",Equidae (dom),Domestic,30.284414,78.98114,domestic
+10478,435,H5N1 (HPAI),,14/04/2008,4/11/2008,40,Mohanpur,Birds,Domestic,23.9169,91.7541,domestic
+10449,435,H5N1 (HPAI),,3/04/2008,4/11/2008,98,Salema,Birds,Domestic,23.8421,91.9784,domestic
+11543,584,H5N1 (HPAI),,18/12/2008,22/10/2009,22,Barhampur,Birds,Domestic,26.21,92.41,domestic
+35403,1718,H5N1 (HPAI),,6/04/2015,29/07/2015,940,Lamphelpat,Birds,Domestic,24.49,93.54,domestic
+4650,290,H5N1 (HPAI),,7/07/2007,2/08/2007,134,Chingmeirong West,Birds,Domestic,24.816,93.933,domestic
+11483,584,H5N1 (HPAI),,7/12/2008,22/10/2009,120,"Ward No. 6, East Revenue Circle",Birds,Domestic,27.28,95.54,domestic
+162404,6703,O (FMD),,6/07/2025,,6,Rajiv Gandhi Zoological Park & Wildlife Research Centre,Axis axis,Wild,18.4525,73.8608,wild
