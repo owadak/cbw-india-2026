@@ -1,4 +1,4 @@
-﻿outbreakId,reportId,diseaseName,diseaseType,startDate,endDate,totalCases,locationName,species,animalCategoryLabel,latitude,longitude,animalCategory
+outbreakId,reportId,diseaseName,diseaseType,startDate,endDate,totalCases,locationName,species,animalCategoryLabel,latitude,longitude,animalCategory
 81528,3530,H5N8 (HPAI),,1/01/2021,21/12/2023,0,Dolasa Revenue Area,Birds,Domestic,20.793232,70.855979,domestic
 148183,6217,H5N1 (HPAI non. Plt),,17/01/2025,,13,"Nehdai, Mohangarh ",Anthropoides virgo,Wild,27.284411,71.133905,wild
 148182,6217,H5N1 (HPAI non. Plt),,11/01/2025,,7,"Chordia Pond, Lakhmana (Fathehgarh) ",Anthropoides virgo,Wild,26.619528,71.251165,wild
@@ -11,7 +11,7 @@
 98002,4331,empty strain - H5N1 (HPAI),,10/02/2022,8/02/2023,549,Agashi(Arnala) ,Birds,Domestic,19.45003,72.755918,domestic
 90312,3496,empty strain - H5N1 (HPAI),,20/02/2021,8/02/2023,401,IPDB Palghar,Birds,Domestic,19.6892,72.7661,domestic
 98004,4331,empty strain - H5N1 (HPAI),,10/02/2022,8/02/2023,518,Vatar,Birds,Domestic,19.44189,72.77522,domestic
-126636,5289,H5N1 (HPAI non. Plt),,5/09/2023,24/10/2023,6,"Gorai, Borivali Mumbai","Cygnus atratus, Lophura nycthemera",Wild,19.23362,72.80541,wild
+126636x,5289x,H5N1 (HPAI non. Plt),,5/09/2023,24/10/2023,611,"Gorai, Borivali Mumbai","Cygnus atratus, Lophura nycthemera",Wild,19.23362,72.80541,wild
 1824,100,H5N1 (HPAI),,27/01/2006,27/04/2006,,Uchchal,Birds,Domestic,21.21531,72.82258,domestic
 90327,3496,empty strain - H5N1 (HPAI),,12/01/2021,8/02/2023,706,"Central Poultry Development Organisation, Aarey Colony, Goregaon",Birds,Domestic,19.142,72.8768,domestic
 150103,6250,empty strain - H5N1 (HPAI),,8/01/2025,,2,"12, Banglow Vasahat, Kopri, Thane",Birds,Domestic,19.181119,72.970814,domestic
@@ -337,7 +337,7 @@
 151074,6276,H5N1 (HPAI),,7/01/2025,15/07/2025,99,Chhindwara,Cats,Domestic,22.051283,78.937857,domestic
 151167,6277,H5N1 (HPAI),,31/01/2025,15/07/2025,0,Ward No. 18,Birds,Domestic,22.056624,78.93978,domestic
 152927,6323,empty strain - H5N1 (HPAI),,14/02/2025,,1500,"Village - Nelapatla, Mandal-Choutuppal District- Yadadri Bhuvanagiri ",Birds,Domestic,17.322722,78.955722,domestic
-148291,6218,H5N1 (HPAI non. Plt),,17/12/2024,,4,"Widlife Rescue Centre, Gorewada Zoo","Panthera pardus, Panthera tigris",Wild,21.202588,79.001493,wild
+148291x,6218x,H5N1 (HPAI non. Plt),,17/12/2024,,411,"Widlife Rescue Centre, Gorewada Zoo","Panthera pardus, Panthera tigris",Wild,21.202588,79.001493,wild
 90089,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,25,Waranga,Birds,Domestic,20.9509,79.039,domestic
 133870,5636,empty strain - H5N1 (HPAI),,29/02/2024,27/09/2024,2650,"Regional Poultry Hatchery, Seminary Hills",Birds,Domestic,21.16137,79.04288,domestic
 90325,3496,empty strain - H5N1 (HPAI),,5/04/2021,8/02/2023,2,"Neri Dungaon, Kamptee",Birds,Domestic,21.1806,79.109,domestic
@@ -346,7 +346,7 @@
 154316,6250,H5N1 (HPAI),,21/01/2025,,118,"Mangli, Jungnala",Birds,Domestic,20.516347,79.90125,domestic
 133869,5635,empty strain - H5N1 (HPAI),,6/02/2024,9/09/2024,2,Gummaladibba,Birds,Domestic,14.509253,79.968125,domestic
 90077,3496,empty strain - H5N1 (HPAI),,15/01/2021,8/02/2023,25,Gadchiroli,Birds,Domestic,20.1922,80.0044,domestic
-17927,1187,H5N1 (HPAI),,3/01/2012,10/01/2012,5,Sadak Arjuni,Al indeterminatum fau,Wild,21.27,80.11,wild
+17927x,1187x,H5N1 (HPAI),,3/01/2012,10/01/2012,511,Sadak Arjuni,Al indeterminatum fau,Wild,21.27,80.11,wild
 73391,3209,H5N1 (HPAI non. Plt),,22/03/2020,30/09/2020,15,Near Railway Station Rithi,Corvus splendens,Wild,23.9048,80.1403,wild
 90092,3496,empty strain - H5N1 (HPAI),,18/01/2021,8/02/2023,167,Nimba,Birds,Domestic,21.2137,80.3326,domestic
 154313,6344,empty strain - H5N1 (HPAI),,11/02/2025,,14500,"Anumolulanka, Gumpalagudem, NTR ",Birds,Domestic,16.983283,80.544214,domestic
@@ -573,3 +573,7 @@
 4650,290,H5N1 (HPAI),,7/07/2007,2/08/2007,134,Chingmeirong West,Birds,Domestic,24.816,93.933,domestic
 11483,584,H5N1 (HPAI),,7/12/2008,22/10/2009,120,"Ward No. 6, East Revenue Circle",Birds,Domestic,27.28,95.54,domestic
 162404,6703,O (FMD),,6/07/2025,,6,Rajiv Gandhi Zoological Park & Wildlife Research Centre,Axis axis,Wild,18.4525,73.8608,wild
+0,0,Test HPAI,,,,300,Village - Anjangoan ,Test Birds,Wild,20.828152,77.782663,wild
+0,0,Test HPAI,,,,70,Pashane,Test Birds,Wild,19.4521,73.328,wild
+0,0,Test HPAI,,,,100,"Vehloli, Vashind",Test Birds,Wild,19.41684,73.29618,wild
+,,,,,,,,,,,,
