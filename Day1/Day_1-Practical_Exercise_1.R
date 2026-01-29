@@ -49,7 +49,7 @@ df
 
 ## ---------------------------------------------------------------------------------------
 # The terra package is for reading and manipulating raster files
-install.packages("terra")
+install.packages("terra", dependencies = TRUE)
 
 
 ## ---------------------------------------------------------------------------------------
@@ -67,15 +67,19 @@ library(terra)
 ## ---------------------------------------------------------------------------------------
 packages_vector <- c( "tidyterra",  # Plotting of raster data
                       "sf",         # Work with vector data
-                      "raster",     # raster data manipulation
-                      "dplyr",      # data manipulation
-                      "biomod2",    # species distribution modelling
-                      "rgbif",      # species occurrence data
-                      "lavaan",     # latent variable analysis and SEM
-                      "lavaanPlot", # Additional functionalities for SEM)
+                      "raster",     # Raster data manipulation
+                      "dplyr",      # Data manipulation
+                      "biomod2",    # Species distribution modelling
+                      "rgbif",      # Species occurrence data
+                      "lavaan",     # Latent variable analysis and SEM
+                      "lavaanPlot", # Additional functionalities for SEM
+                      "performance",# Measures SEM performances
+                      "stringr",    # String operations
+                      "tidyr",      # Data manipulation
                       "ggplot2",    # Visualising data
                       "ggpubr")     # Advanced layout of plots
-install.packages(packages_vector)
+
+install.packages(packages_vector, dependencies = TRUE)
 
 
 ## ---------------------------------------------------------------------------------------
