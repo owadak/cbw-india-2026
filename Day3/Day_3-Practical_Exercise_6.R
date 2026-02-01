@@ -143,7 +143,7 @@ Projected_Poultry_farm_exposure =
   combined_sem_inputs.scaled['Duck_Distribution'] * list_weights$Poultry_farm_exposure$Duck_Distribution
 
 Projected_Human_exposure = 
-  Poultry_farm_exposure * list_weights$Human_exposure$Poultry_farm_exposure + 
+  Projected_Poultry_farm_exposure * list_weights$Human_exposure$Poultry_farm_exposure + 
   combined_sem_inputs.scaled$Proportion_Urban * list_weights$Human_exposure$Proportion_Urban + 
   combined_sem_inputs.scaled$Population_Density * list_weights$Human_exposure$Population_Density
 
@@ -174,7 +174,7 @@ poultry_farm_exposure_plot <- ggplot() +
        x = "Longitude", y = "Latitude")
 
 projected_poultry_farm_exposure_plot <- ggplot() +
-  geom_spatraster(data = Poultry_farm_exposure) +
+  geom_spatraster(data = Projected_Poultry_farm_exposure) +
   scale_fill_viridis_c(na.value = NA) +
   labs(title="Projected poultry farm exposure\nin Maharashtra in 2041-2060",
        x = "Longitude", y = "Latitude")
